@@ -1,0 +1,54 @@
+<header class="site-header">
+<!-- start banner -->
+
+<div id="ucsf-banner-nav" class="light-blue">
+      <div class="top-header-container row">
+          <ul class="menu">
+            <li class="first"><a href="http://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="http://www.ucsfhealth.org/">UCSF Medical Center</a></li>
+            <li><a href="http://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="http://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+</div>
+<!-- end banner -->
+
+<!--Site Header (subbrand and navigation)-->
+<div class="UpperTitle">
+		<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+</div>
+
+<!-- Start Navigation -->
+		<script>
+			$(function() {
+				var pull 		= $('#pull');
+					menu 		= $('nav ul');
+					menuHeight	= menu.height();
+
+				$(pull).on('click', function(e) {
+					e.preventDefault();
+					menu.slideToggle();
+				});
+
+				$(window).resize(function(){
+	      		var w = $(window).width();
+	      		if(w > 320 && menu.is(':hidden')) {
+	      			menu.removeAttr('style');
+	      		}
+	  		});
+			});
+		</script>
+<nav class="clearfix">
+	<ul class="clearfix">
+		<li><a href="{{ site.baseurl }}/"><span>Home</span></a></li>
+		<li><a href="{{ site.baseurl }}/research">Research</a></li>	
+		<li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+		<li><a href="{{ site.baseurl }}/people">People</a></li>
+		<li><a href="{{ site.baseurl }}/timeline">Timeline</a></li>
+		<li><a href="{{ site.baseurl }}/about">About Us</a></li>
+		<li><a href="{{ site.baseurl }}/links">Links</a></li>
+	</ul>
+	<a href="#" id="pull">Menu</a> 
+<!--end navigation -->
+
+</header>
