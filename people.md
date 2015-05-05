@@ -19,7 +19,7 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/chorba"><span>John Chorba, M.D.(joined the lab in 2011)</span></a>
 
-<a href="{{ site.baseurl }}/gordan"><span>John Gordan, M.D.(joined the lab in 2011)</span></a>
+<a href="{{ site.baseurl }}/gordan"><span>John Gordan, M.D.(joined the lab in 2012)</span></a>
 
 ###Students
 
@@ -33,12 +33,13 @@ Christopher Novotny (joined lab in 2009)
 
 <a href="{{ site.baseurl }}/levin"><span>Rebecca Levin (joined lab in 2012)</span></a>
 
-<a href="{{ site.baseurl }}/Barkovich"><span>Krister Barkovich (joined lab in 2013)</span></a>
-
+<a href="{{ site.baseurl }}/barkovich"><span>Krister Barkovich (joined lab in 2013)</span></a>
 
 Daniel Gentile (joined lab in 2013)
 
-Allison Wong (joined lab in 2014)
+<a href="{{ site.baseurl }}/nnadi"><span>Chimno Nnadi (joined lab in 2014)</span></a>
+
+<a href="{{ site.baseurl }}/wong"><span>Allison Wong (joined lab in 2014)</span></a>
 
 ###Postdocs
 
