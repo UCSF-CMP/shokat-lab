@@ -6,8 +6,6 @@ permalink: /people/
 
 ##Principal Investigator
 
-###Kevan Shokat
-
 <a href="{{ site.baseurl }}/publications"><span>Kevan Shokat</span></a>
 
 ###Administrative Coordinator

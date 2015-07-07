@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: /Links/
+permalink: /links/
 ---
 
 [University of California San Francisco](http://www.ucsf.edu "UCSF").
