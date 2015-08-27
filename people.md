@@ -23,8 +23,6 @@ permalink: /people/
 
 Aaron Mendez (joined lab in 2009)
 
-Darien Reed (joined lab in 2010)
-
 Christopher Novotny (joined lab in 2009)
 
 <a href="{{ site.baseurl }}/rutaganira"><span>Florentine Rutaganira (joined lab in 2009)</span></a>
