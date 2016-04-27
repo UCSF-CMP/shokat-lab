@@ -21,7 +21,6 @@ permalink: /people/
 
 ###Students
 
-Aaron Mendez (joined lab in 2009)
 
 Christopher Novotny (joined lab in 2009)
 
@@ -40,9 +39,6 @@ Daniel Gentile (joined lab in 2013)
 ###Postdocs
 
 Jesse Lipp (joined lab in 2010)
-
-
-<a href="{{ site.baseurl }}/lazarus"><span>Michael Lazarus (joined lab in 2012)</span></a>
 
 Lynn McGregor (joined lab in 2014)
 
