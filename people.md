@@ -36,9 +36,10 @@ Daniel Gentile (joined lab in 2013)
 
 <a href="{{ site.baseurl }}/wong"><span>Allison Wong (joined lab in 2014)</span></a>
 
+<a href="{{ site.baseurl }}/moss"><span>Steven Moss (joined lab in 2016)</span></a>
+
 ###Postdocs
 
-Jesse Lipp (joined lab in 2010)
 
 Lynn McGregor (joined lab in 2014)
 
