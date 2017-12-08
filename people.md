@@ -27,11 +27,9 @@ Masato Sasaki (visiting scientist 2016-2018)
 
 ### Students
 
-<a href="{{ site.baseurl }}/rutaganira"><span>Florentine Rutaganira (joined lab in 2009)</span></a>
-
 <a href="{{ site.baseurl }}/barkovich"><span>Krister Barkovich (joined lab in 2013)</span></a>
 
-Daniel Gentile (joined lab in 2013)
+Shizhong (Albert) Dai, joined in 2017
 
 <a href="{{ site.baseurl }}/nnadi"><span>Chimno Nnadi (joined lab in 2014)</span></a>
 
@@ -41,13 +39,11 @@ Daniel Gentile (joined lab in 2013)
 
 Kevin Lou MSTP (joined lab in 2016)
 
+Doug Wassarman, joined in 2017
+
 ### Postdocs
 
-Lynn McGregor (joined lab in 2014)
-
 <a href="{{ site.baseurl }}/melnyk"><span>Jim Melnyk (joined lab in 2016)</span></a>
-
-Christopher Novotny (joined lab in 2009)
 
 Qi Hu (joined lab in 2015)
 
