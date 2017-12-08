@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#Mailing Address:
+# Mailing Address:
 
 University of California San Francisco
 
@@ -14,11 +14,11 @@ Cellular and Molecular Pharmacology
 
 San Francisco, CA  94158-2280
 
- 
 
- 
 
-#Lab
+
+
+# Lab
 
 Genentech Hall
 
@@ -32,7 +32,7 @@ Fax - (415) 514-0822
 
 
 
-#Kevan's Office:
+# Kevan's Office:
 
 600 16th Street
 
@@ -44,9 +44,9 @@ Fax - (415) 514-0822
 
 Email - Kevan.Shokat@ucsf.edu
 
- 
 
-#For further inquiries, contact:
+
+# For further inquiries, contact:
 
 Delaney Lynch
 
@@ -55,5 +55,3 @@ Delaney.Lynch@ucsf.edu
 Phone - (415) 502-1475
 
 Fax - (415) 514-0822
-
- 

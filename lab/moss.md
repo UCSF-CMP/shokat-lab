@@ -3,7 +3,7 @@ layout: page
 title: Steven Moss
 permalink: /moss/
 ---
-Allison joined the lab in 2014. 
+Steven joined the lab in 2016. 
 
 ![wong pic](../img/moss.jpg)
 

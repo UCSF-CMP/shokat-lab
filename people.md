@@ -4,29 +4,30 @@ title: Current Lab Members
 permalink: /people/
 ---
 
-##Principal Investigator
+## Principal Investigator
 
 <a href="{{ site.baseurl }}/publications"><span>Kevan Shokat</span></a>
 
-###Administrative Coordinator
+### Administrative Coordinator
 
 <a href="{{ site.baseurl }}/delaney"><span>Delaney Lynch (joined the lab in 2013)</span></a>
 
 
-###Clinical Researchers:
+### Clinical Researchers:
 
 <a href="{{ site.baseurl }}/chorba"><span>John Chorba, M.D.(joined the lab in 2011)</span></a>
 
 <a href="{{ site.baseurl }}/gordan"><span>John Gordan, M.D.(joined the lab in 2012)</span></a>
 
-###Students
+Masato Sasaki (visiting scientist 2016-2018)
 
+### Fellows
 
-Christopher Novotny (joined lab in 2009)
+ <a href="{{ site.baseurl }}/galvan"><span>Adri Galvan (joined lab in 2017)</span></a>
+
+### Students
 
 <a href="{{ site.baseurl }}/rutaganira"><span>Florentine Rutaganira (joined lab in 2009)</span></a>
-
-<a href="{{ site.baseurl }}/levin"><span>Rebecca Levin (joined lab in 2012)</span></a>
 
 <a href="{{ site.baseurl }}/barkovich"><span>Krister Barkovich (joined lab in 2013)</span></a>
 
@@ -38,11 +39,16 @@ Daniel Gentile (joined lab in 2013)
 
 <a href="{{ site.baseurl }}/moss"><span>Steven Moss (joined lab in 2016)</span></a>
 
-###Postdocs
+Kevin Lou MSTP (joined lab in 2016)
 
+### Postdocs
 
 Lynn McGregor (joined lab in 2014)
 
+<a href="{{ site.baseurl }}/melnyk"><span>Jim Melnyk (joined lab in 2016)</span></a>
+
+Christopher Novotny (joined lab in 2009)
+
 Qi Hu (joined lab in 2015)
 
-
+<a href="{{ site.baseurl }}/zhang"><span>Ziyang Zhang (joined lab in 2016)</span></a>
