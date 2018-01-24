@@ -39,12 +39,12 @@ Shizhong (Albert) Dai, joined in 2017
 
 Kevin Lou MSTP (joined lab in 2016)
 
-Doug Wassarman, joined in 2017
+<a href="{{ site.baseurl }}/wassarman"><span>Doug Wassarman (joined in 2017)</span></a>
 
 ### Postdocs
 
 <a href="{{ site.baseurl }}/melnyk"><span>Jim Melnyk (joined lab in 2016)</span></a>
 
-Qi Hu (joined lab in 2015)
+<a href="{{ site.baseurl }}/hu"><span>Qi Hu (joined lab in 2015)</span></a>
 
 <a href="{{ site.baseurl }}/zhang"><span>Ziyang Zhang (joined lab in 2016)</span></a>
