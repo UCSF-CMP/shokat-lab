@@ -17,13 +17,8 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/chorba"><span>John Chorba, M.D.(joined the lab in 2011)</span></a>
 
-<a href="{{ site.baseurl }}/gordan"><span>John Gordan, M.D.(joined the lab in 2012)</span></a>
-
 Masato Sasaki (visiting scientist 2016-2018)
 
-### Fellows
-
- <a href="{{ site.baseurl }}/galvan"><span>Adri Galvan (joined lab in 2017)</span></a>
 
 ### Students
 
@@ -37,10 +32,13 @@ Masato Sasaki (visiting scientist 2016-2018)
 
 Kevin Lou (joined lab in 2016)
 
-
 <a href="{{ site.baseurl }}/shizhong"><span>Shizhong (Albert) Dai (joined lab in 2017)</span></a>
 
 <a href="{{ site.baseurl }}/wassarman"><span>Doug Wassarman (joined in 2017)</span></a>
+
+<a href="{{ site.baseurl }}/zhu"><span>Lawrence Zhu (joined in 2018)</span></a>
+
+Jack Stevenson (joined lab in 2018)
 
 ### Postdocs
 
@@ -51,3 +49,5 @@ Kevin Lou (joined lab in 2016)
 <a href="{{ site.baseurl }}/melnyk"><span>Jim Melnyk (joined lab in 2017)</span></a>
 
 <a href="{{ site.baseurl }}/shi"><span>Ying Shi (joined lab in 2018)</span></a>
+
+<a href="{{ site.baseurl }}/peacock"><span>Matthew Peacock (joined lab in 2018)</span></a>
