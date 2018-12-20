@@ -38,7 +38,11 @@ Kevin Lou (joined lab in 2016)
 
 <a href="{{ site.baseurl }}/zhu"><span>Lawrence Zhu (joined in 2018)</span></a>
 
-Jack Stevenson (joined lab in 2018)
+<a href="{{ site.baseurl }}/stevenson"><span>Jack Stevenson (joined in 2018)</span></a>
+
+<a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
+
+<a href="{{ site.baseurl }}/gonzalez"><span>Eric Gonzalez (joined in 2018)</span></a>
 
 ### Postdocs
 
