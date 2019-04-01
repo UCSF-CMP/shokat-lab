@@ -22,11 +22,7 @@ Masato Sasaki (visiting scientist 2016-2018)
 
 ### Students
 
-<a href="{{ site.baseurl }}/barkovich"><span>Krister Barkovich (joined lab in 2013)</span></a>
-
 <a href="{{ site.baseurl }}/nnadi"><span>Chimno Nnadi (joined lab in 2014)</span></a>
-
-<a href="{{ site.baseurl }}/wong"><span>Allison Wong (joined lab in 2014)</span></a>
 
 <a href="{{ site.baseurl }}/moss"><span>Steven Moss (joined lab in 2016)</span></a>
 
@@ -55,3 +51,5 @@ Kevin Lou (joined lab in 2016)
 <a href="{{ site.baseurl }}/shi"><span>Ying Shi (joined lab in 2018)</span></a>
 
 <a href="{{ site.baseurl }}/peacock"><span>Matthew Peacock (joined lab in 2018)</span></a>
+
+<a href="{{ site.baseurl }}/kirby"><span>Ilsa Kirby (joined lab in 2019)</span></a>
