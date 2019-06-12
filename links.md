@@ -6,7 +6,7 @@ permalink: /links/
 
 [University of California San Francisco](http://www.ucsf.edu "UCSF").
 
-[Enter Kinase database here](http://sequoia.ucsf.edu/ksd/ "kinase database").
+[Enter Kinase database here](http://shokatlab.ucsf.edu/ksd/ "KSD").
 
 [University of California Berkeley, College of Chemistry](http://chemistry.berkeley.edu/ "Cal").
 
