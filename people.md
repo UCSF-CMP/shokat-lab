@@ -22,7 +22,7 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/nnadi"><span>Chimno Nnadi (joined lab in 2014)</span></a>
 
-Kevin Lou (joined lab in 2016)
+<a href="{{ site.baseurl }}/lou"><span>Kevin Lou (joined lab in 2016)</span></a>
 
 <a href="{{ site.baseurl }}/shizhong"><span>Shizhong (Albert) Dai (joined lab in 2017)</span></a>
 

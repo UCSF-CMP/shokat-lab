@@ -3,7 +3,7 @@ layout: page
 title: Ziyang Zhang
 permalink: /zhang/
 ---
-Jim joined the lab in 2016.
+Ziyang joined the lab in 2016.
 
 ![zhang pic](../img/zhang.png)
 
