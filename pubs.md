@@ -48,3 +48,38 @@ permalink: /pubs/
 *	Hu Q, Shokat KM. Disease-Causing Mutations in the G Protein Gas Subvert the Roles of GDP and GTP. Cell. 2018 May 17; 173(5):1254-1264.e11. PMID: 29628140 PMCID:PMC5959768
 
     ([PMID 29628140](https://www.ncbi.nlm.nih.gov/PubMed/29628140)) ([PDF]({{ site.baseurl }}/pdfs/PMID_30808819.pdf))
+
+
+START HERE
+
+2019
+
+*	Lou, K, Steri V, Ge AY, Hwang YC, Yogodzinski CH, Shkedi AR, Choi ALM, Mitchell DC, Swaney DL, Hann B, Gordan JD, Shokat KM, Gilbert LA. KRASG12C inhibition produces a driver-limited state revealing collateral dependencies. Sci Signal. 2019 May 28; 12(583).
+
+    ([PMID 31138768](https://www.ncbi.nlm.nih.gov/pubmed/31138768)) ([PDF]({{ site.baseurl }}/pdfs/31138768.pdf))
+
+*	Hernández-Ortega S, Sánchez-Botet A, Quandt E, Masip N, Gasa L, Verde G, Jiménez J, Levin RS, Rutaganira FU, Burlingame AL, Wolfgeher D, Ribeiro MPC, Kron SJ, Shokat KM, Clotet J. Phosphoregulation of the oncogenic protein regulator of cytokinesis 1 (PRC1) by the atypical CDK16/CCNY complex. Exp Mol Med. 2019 Apr 16; 51(4):44.
+
+    ([PMID 30992425](https://www.ncbi.nlm.nih.gov/pubmed/30992425)) ([PDF]({{ site.baseurl }}/pdfs/30992425.pdf))
+
+*	Moss SM, Taylor IR, Ruggero D, Gestwicki JE, Shokat KM, Mukherjee S. A Legionella pneumophila Kinase Phosphorylates the Hsp70 Chaperone Family to Inhibit Eukaryotic Protein Synthesis. Cell Host Microbe. 2019 Mar 13; 25(3):454-462.e6.
+
+    ([PMID 30827827](https://www.ncbi.nlm.nih.gov/pubmed/30827827)) ([PDF]({{ site.baseurl }}/pdfs/30827827.pdf))
+
+*	Katsuno Y, Meyer DS, Zhang Z, Shokat KM, Akhurst RJ, Miyazono K, Derynck R. Chronic TGF-ß exposure drives stabilized EMT, tumor stemness, and cancer drug resistance with vulnerability to bitopic mTOR inhibition. Sci Signal. 2019 Feb 26; 12(570).
+
+    ([PMID 30808819](https://www.ncbi.nlm.nih.gov/pubmed/30808819)) ([PDF]({{ site.baseurl }}/pdfs/30808819.pdf))
+
+*	Wong AW, Urisman A, Burlingame AL, Shokat KM. Chemically reprogramming the phospho-transfer reaction to crosslink protein kinases to their substrates. Protein Sci. 2019 Jan 13.
+
+    ([PMID 30636329](https://www.ncbi.nlm.nih.gov/pubmed/30636329)) ([PDF]({{ site.baseurl }}/pdfs/30636329.pdf))
+
+    2018
+
+*	Ocasio CA, Warkentin AA, McIntyre PJ, Barkovich KJ, Vesely C, Spencer J, Shokat KM, Bayliss R. Type II Kinase Inhibitors Targeting Cys-Gatekeeper Kinases Display Orthogonality with Wild Type and Ala/Gly-Gatekeeper Kinases. ACS Chem Biol. 2018 Oct 19; 13(10):2956-2965.
+
+    ([PMID 30239186](https://www.ncbi.nlm.nih.gov/pubmed/30239186)) ([PDF]({{ site.baseurl }}/pdfs/30239186.pdf))
+
+* Barkovich KJ, Moore MK, Hu Q, Shokat KM. Chemical genetic inhibition of DEAD-box proteins using covalent complementarity. Nucleic Acids Res. 2018 Sep 28; 46(17):8689-8699.
+
+  ([PMID 30102385](https://www.ncbi.nlm.nih.gov/pubmed/30102385)) ([PDF]({{ site.baseurl }}/pdfs/30102385.pdf))
