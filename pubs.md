@@ -74,7 +74,7 @@ START HERE
 
     ([PMID 30636329](https://www.ncbi.nlm.nih.gov/pubmed/30636329)) ([PDF]({{ site.baseurl }}/pdfs/30636329.pdf))
 
-    2018
+    # 2018
 
 *	Ocasio CA, Warkentin AA, McIntyre PJ, Barkovich KJ, Vesely C, Spencer J, Shokat KM, Bayliss R. Type II Kinase Inhibitors Targeting Cys-Gatekeeper Kinases Display Orthogonality with Wild Type and Ala/Gly-Gatekeeper Kinases. ACS Chem Biol. 2018 Oct 19; 13(10):2956-2965.
 
