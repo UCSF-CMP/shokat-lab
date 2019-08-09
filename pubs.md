@@ -4,9 +4,6 @@ title: Publications
 permalink: /pubs/
 ---
 
-### 2019
-<hr /><hr />
-<br/>
 
 *	Lou, K, Steri V, Ge AY, Hwang YC, Yogodzinski CH, Shkedi AR, Choi ALM, Mitchell DC, Swaney DL, Hann B, Gordan JD, Shokat KM, Gilbert LA. KRASG12C inhibition produces a driver-limited state revealing collateral dependencies. *Sci Signal.* 2019 May 28; 12(583).
 
@@ -27,11 +24,6 @@ permalink: /pubs/
 *	Wong AW, Urisman A, Burlingame AL, Shokat KM. Chemically reprogramming the phospho-transfer reaction to crosslink protein kinases to their substrates. *Protein Sci.* 2019 Jan 13.
 
     ([PMID 30636329](https://www.ncbi.nlm.nih.gov/pubmed/30636329)) ([PDF]({{ site.baseurl }}/pdfs/30636329.pdf))
-
-<br/>
-### 2018
-<hr /><hr />
-<br/>
 
 * Chamberlain CE, German MS, Yang K, Wang J, VanBrocklin H, Regan M, Shokat KM, Ducker GS, Kim GE, Hann B, Donner DB, Warren RS, Venook AP, Bergsland EK, Lee D, Wang Y, Nakakura EK. A patient-derived xenograft model of pancreatic neuroendocrine tumors identifies sapanisertib as a possible new treatment for everolimus-resistant tumors. *Mol Cancer Ther.* 2018 Dec; 17(12):2702-2709.
 
@@ -77,10 +69,6 @@ permalink: /pubs/
 
     ([PMID 29259136](https://www.ncbi.nlm.nih.gov/pubmed/29259136)) ([PDF]({{ site.baseurl }}/pdfs/29259136.pdf))
 
-<br/>
-### 2017
-<hr /><hr />
-<br/>
 
 * Rutaganira FU, Barks J, Dhason MS, Wang Q, Lopez MS, Long S, Radke JB, Jones NG, Maddirala AR, Janetka JW, El Bakkouri M, Hui R, Shokat KM, Sibley LD. Inhibition of calcium dependent protein kinase 1 (CDPK1) by pyrazolopyrimidine analogs decreases establishment and reoccurrence of central nervous system disease by toxoplasma gondii. *J Med Chem.* 2017 Dec 28; 60(24):9976-9989.
 
@@ -146,11 +134,6 @@ permalink: /pubs/
 
     ([PMID 27760376](https://www.ncbi.nlm.nih.gov/pubmed/27760376)) ([PDF]({{ site.baseurl }}/pdfs/27760376.pdf))
 
-
-<br/>
-### 2016
-<hr /><hr />
-<br/>
 
 * Novotny CJ, Pollari S, Park JH, Lemmon MA, Shen W, Shokat KM. Overcoming resistance to HER2 inhibitors through state-specific kinase binding. *Nat Chem Biol.* 2016 Nov; 12(11):923-930.
 
@@ -220,11 +203,6 @@ permalink: /pubs/
 
     ([PMID 26552986](https://www.ncbi.nlm.nih.gov/pubmed/26552986)) ([PDF]({{ site.baseurl }}/pdfs/26552986.pdf))
 
-<br/>
-### 2015
-<hr /><hr />
-<br/>
-
 * Costa HA, Leitner MG, Sos ML, Mavrantoni A, Rychkova A, Johnson JR, Newton BW, Yee MC, De La Vega FM, Ford JM, Krogan NJ, Shokat KM, Oliver D, Halaszovich CR, Bustamante CD. Discovery and functional characterization of a neomorphic PTEN mutation. *Proc Natl Acad Sci U S A.* 2015 Nov 10; 112(45):13976-81.
 
     ([PMID 26504226](https://www.ncbi.nlm.nih.gov/pubmed/26504226)) ([PDF]({{ site.baseurl }}/pdfs/26504226.pdf))
@@ -278,10 +256,6 @@ permalink: /pubs/
 
     ([PMID 25551253](https://www.ncbi.nlm.nih.gov/pubmed/25551253)) ([PDF]({{ site.baseurl }}/pdfs/25551253.pdf))
 
-<br/>
-### 2014
-<hr /><hr />
-<br/>
 
 * Reed DE, Shokat KM. Targeting osteosarcoma. *Proc Natl Acad Sci U S A.* 2014 Dec 23; 111(51):18100-1.
 
@@ -363,10 +337,6 @@ permalink: /pubs/
 
     ([PMID 25399647](https://www.ncbi.nlm.nih.gov/pubmed/25399647)) ([PDF]({{ site.baseurl }}/pdfs/25399647.pdf))
 
-<br/>
-### 2013
-<hr /><hr />
-<br/>
 
 * Kliegman JI, Fiedler D, Ryan CJ, Xu YF, Su XY, Thomas D, Caccese MC, Cheng A, Shales M, Rabinowitz JD, Krogan NJ, Shokat KM. Chemical genetics of rapamycin-insensitive TORC2 in S. cerevisiae. *Cell Rep.* 2013 Dec 26; 5(6):1725-36.
 
@@ -415,11 +385,6 @@ permalink: /pubs/
 * Kaasik K, Kivimäe S, Allen JJ, Chalkley RJ, Huang Y, Baer K, Kissel H, Burlingame AL, Shokat KM, Ptácek LJ, Fu YH. Glucose sensor O-GlcNAcylation coordinates with phosphorylation to regulate circadian clock. *Cell Metab.* 2013 Feb 05; 17(2):291-302.
 
     ([PMID 23395175](https://www.ncbi.nlm.nih.gov/pubmed/23395175)) ([PDF]({{ site.baseurl }}/pdfs/23395175.pdf))
-
-<br/>
-### 2012
-<hr /><hr />
-<br/>
 
 * Soskis MJ, Ho HY, Bloodgood BL, Robichaux MA, Malik AN, Ataman B, Rubin AA, Zieg J, Zhang C, Shokat KM, Sharma N, Cowan CW, Greenberg ME. A chemical genetic approach reveals distinct EphB signaling mechanisms during brain development. *Nat Neurosci.* 2012 Dec; 15(12):1645-54.
 
@@ -518,10 +483,6 @@ permalink: /pubs/
 
     ([PMID 21960223](https://www.ncbi.nlm.nih.gov/pubmed/21960223)) ([PDF]({{ site.baseurl }}/pdfs/21960223.pdf))
 
-<br/>
-### 2011
-<hr /><hr />
-<br/>
 
 * Banko MR, Allen JJ, Schaffer BE, Wilker EW, Tsou P, White JL, Villén J, Wang B, Kim SR, Sakamoto K, Gygi SP, Cantley LC, Yaffe MB, Shokat KM, Brunet A. Chemical genetic screen for AMPKa2 substrates uncovers a network of proteins involved in mitosis. *Mol Cell.* 2011 Dec 23; 44(6):878-92.
 
@@ -590,11 +551,6 @@ permalink: /pubs/
 * Salomon D, Zhang C, Shokat KM, Sessa G. Sensitizing plant protein kinases to specific inhibition by ATP-competitive molecules. *Methods Mol Biol.* 2011; 779:185-97.
 
     ([PMID 21837567](https://www.ncbi.nlm.nih.gov/pubmed/21837567)) ([PDF]({{ site.baseurl }}/pdfs/21837567.pdf))
-
-<br/>
-### 2010
-<hr /><hr />
-<br/>
 
 * Bodenmiller B, Wanka S, Kraft C, Urban J, Campbell D, Pedrioli PG, Gerrits B, Picotti P, Lam H, Vitek O, Brusniak MY, Roschitzki B, Zhang C, Shokat KM, Schlapbach R, Colman-Lerner A, Nolan GP, Nesvizhskii AI, Peter M, Loewith R, von Mering C, Aebersold R. Phosphoproteomic analysis reveals interconnected system-wide responses to perturbations of kinases and phosphatases in yeast. *Sci Signal.* 2010 Dec 21; 3(153):rs4.
 
@@ -712,10 +668,6 @@ permalink: /pubs/
 
     ([PMID 20371474](https://www.ncbi.nlm.nih.gov/pubmed/20371474)) ([PDF]({{ site.baseurl }}/pdfs/20371474.pdf))
 
-<br/>
-### 2009
-<hr /><hr />
-<br/>
 * Niu H, Wan L, Busygina V, Kwon Y, Allen JA, Li X, Kunz RC, Kubota K, Wang B, Sung P, Shokat KM, Gygi SP, Hollingsworth NM. Regulation of meiotic recombination via Mek1-mediated Rad54 phosphorylation. *Mol Cell.* 2009 Nov 13; 36(3):393-404. View on PubMed
 
     ([PMID 19917248](https://www.ncbi.nlm.nih.gov/pubmed/19917248)) ([PDF]({{ site.baseurl }}/pdfs/19917248.pdf))
@@ -807,11 +759,6 @@ permalink: /pubs/
 * Li S, Makovets S, Matsuguchi T, Blethrow JD, Shokat KM, Blackburn EH. Cdk1-dependent phosphorylation of Cdc13 coordinates telomere elongation during cell-cycle progression. *Cell.* 2009 Jan 09; 136(1):50-61.
 
     ([PMID 19135888](https://www.ncbi.nlm.nih.gov/pubmed/19135888)) ([PDF]({{ site.baseurl }}/pdfs/19135888.pdf))
-
-<br/>
-### 2008
-<hr /><hr />
-<br/>
 
 * Morgan DJ, Weisenhaus M, Shum S, Su T, Zheng R, Zhang C, Shokat KM, Hille B, Babcock DF, McKnight GS. Tissue-specific PKA inhibition using a chemical genetic approach and its application to studies on sperm capacitation. *Proc Natl Acad Sci U S A.* 2008 Dec 30; 105(52):20740-5.
 
@@ -949,10 +896,6 @@ permalink: /pubs/
 
     ([PMID 17991748](https://www.ncbi.nlm.nih.gov/pubmed/17991748)) ([PDF]({{ site.baseurl }}/pdfs/17991748.pdf))
 
-<br/>
-### 2007
-<hr /><hr />
-<br/>
 * Weiss WA, Taylor SS, Shokat KM. Recognizing and exploiting differences between RNAi and small-molecule inhibitors. *Nat Chem Biol.* 2007 Dec; 3(12):739-44.
 
     ([PMID 18007642](https://www.ncbi.nlm.nih.gov/pubmed/18007642)) ([PDF]({{ site.baseurl }}/pdfs/18007642.pdf))
@@ -1037,11 +980,6 @@ permalink: /pubs/
 
     ([PMID 18007635](https://www.ncbi.nlm.nih.gov/pubmed/18007635)) ([PDF]({{ site.baseurl }}/pdfs/18007635.pdf))
 
-<br/>
-### 2006
-<hr /><hr />
-<br/>
-
 * Simon MD, Feldman ME, Rauh D, Maris AE, Wemmer DE, Shokat KM. Structure and properties of a re-engineered homeodomain protein-DNA interface. *ACS Chem Biol.* 2006 Dec 15; 1(12):755-60.
 
     ([PMID 17240973](https://www.ncbi.nlm.nih.gov/pubmed/17240973)) ([PDF]({{ site.baseurl }}/pdfs/17240973.pdf))
@@ -1110,11 +1048,6 @@ permalink: /pubs/
 
     ([PMID 16327780](https://www.ncbi.nlm.nih.gov/pubmed/16327780)) ([PDF]({{ site.baseurl }}/pdfs/16327780.pdf))
 
-<br/>
-### 2005
-<hr /><hr />
-<br/>
-
 * Dephoure N, Howson RW, Blethrow JD, Shokat KM, O'Shea EK. Combining chemical genetics and proteomics to identify protein kinase substrates. *Proc Natl Acad Sci U S A.* 2005 Dec 13; 102(50):17940-5.
 
     ([PMID 16330754](https://www.ncbi.nlm.nih.gov/pubmed/16330754)) ([PDF]({{ site.baseurl }}/pdfs/16330754.pdf))
@@ -1175,11 +1108,6 @@ permalink: /pubs/
 
     ([PMID 15668173](https://www.ncbi.nlm.nih.gov/pubmed/15668173)) ([PDF]({{ site.baseurl }}/pdfs/15668173.pdf))
 
-<br/>
-### 2004
-<hr /><hr />
-<br/>
-
 * Wong S, McLaughlin J, Cheng D, Zhang C, Shokat KM, Witte ON. Sole BCR-ABL inhibition is insufficient to eliminate all myeloproliferative disorder cell populations. *Proc Natl Acad Sci U S A.* 2004 Dec 14; 101(50):17456-61.
 
     ([PMID 15505216](https://www.ncbi.nlm.nih.gov/pubmed/15505216)) ([PDF]({{ site.baseurl }}/pdfs/15505216.pdf))
@@ -1227,11 +1155,6 @@ permalink: /pubs/
 * Wan L, de los Santos T, Zhang C, Shokat K, Hollingsworth NM. Mek1 kinase activity functions downstream of RED1 in the regulation of meiotic double strand break repair in budding yeast. *Mol Biol Cell.* 2004 Jan; 15(1):11-23.
 
     ([PMID 14595109](https://www.ncbi.nlm.nih.gov/pubmed/14595109)) ([PDF]({{ site.baseurl }}/pdfs/14595109.pdf))
-
-<br/>
-### 2003
-<hr /><hr />
-<br/>
 
 * Fan QW, Specht KM, Zhang C, Goldenberg DD, Shokat KM, Weiss WA. Combinatorial efficacy achieved through two-point blockade within a signaling pathway-a chemical genetic approach. *Cancer Res.* 2003 Dec 15; 63(24):8930-8.
 
@@ -1284,11 +1207,6 @@ permalink: /pubs/
 * Shah K, Shokat KM. A chemical genetic approach for the identification of direct substrates of protein kinases. *Methods Mol Biol.* 2003; 233:253-71.
 
     ([PMID 12840513](https://www.ncbi.nlm.nih.gov/pubmed/12840513)) ([PDF]({{ site.baseurl }}/pdfs/12840513.pdf))
-
-<br/>
-### 2002
-<hr /><hr />
-<br/>
 
 * Ulrich SM, Sallee NA, Shokat KM. Conformational restraint is a critical determinant of unnatural nucleotide recognition by protein kinases. *Bioorg Med Chem Lett.* 2002 Nov 04; 12(21):3223-7.
 
@@ -1346,11 +1264,6 @@ permalink: /pubs/
 
     ([PMID 12136762](https://www.ncbi.nlm.nih.gov/pubmed/12136762)) ([PDF]({{ site.baseurl }}/pdfs/12136762.pdf))
 
-<br/>
-### 2001
-<hr /><hr />
-<br/>
-
 * Carroll AS, Bishop AC, DeRisi JL, Shokat KM, O'Shea EK. Chemical inhibition of the Pho85 cyclin-dependent kinase reveals a role in the environmental stress response. *Proc Natl Acad Sci U S A.* 2001 Oct 23; 98(22):12578-83.
 
     ([PMID 11675494](https://www.ncbi.nlm.nih.gov/pubmed/11675494)) ([PDF]({{ site.baseurl }}/pdfs/11675494.pdf))
@@ -1383,11 +1296,6 @@ permalink: /pubs/
 
     ([PMID 11687495](https://www.ncbi.nlm.nih.gov/pubmed/11687495)) ([PDF]({{ site.baseurl }}/pdfs/11687495.pdf))
 
-<br/>
-### 2000
-<hr /><hr />
-<br/>
-
 * Liu Y, Witucki LA, Shah K, Bishop AC, Shokat KM. Src-Abl tyrosine kinase chimeras: replacement of the adenine binding pocket of c-Abl with v-Src to swap nucleotide and inhibitor specificities. *Biochemistry.* 2000 Nov 28; 39(47):14400-8.
 
     ([PMID 11087392](https://www.ncbi.nlm.nih.gov/pubmed/11087392)) ([PDF]({{ site.baseurl }}/pdfs/11087392.pdf))
@@ -1407,11 +1315,6 @@ permalink: /pubs/
 * Bishop A, Buzko O, Heyeck-Dumas S, Jung I, Kraybill B, Liu Y, Shah K, Ulrich S, Witucki L, Yang F, Zhang C, Shokat KM. Unnatural ligands for engineered proteins: new tools for chemical genetics. *Annu Rev Biophys Biomol Struct.* 2000; 29:577-606.
 
     ([PMID 10940260](https://www.ncbi.nlm.nih.gov/pubmed/10940260)) ([PDF]({{ site.baseurl }}/pdfs/10940260.pdf))
-
-<br/>
-### Pre-2000
-<hr /><hr />
-<br/>
 
 * Gillespie PG, Gillespie SK, Mercer JA, Shah K, Shokat KM. Engineering of the myosin-ibeta nucleotide-binding pocket to create selective sensitivity to N(6)-modified ADP analogs. *J Biol Chem.* 1999 Oct 29; 274(44):31373-81.
 

@@ -12,8 +12,9 @@ Cellular and Molecular Pharmacology
 
 600 16th Street, MC 2280
 
-San Francisco, CA  94158-2280
+San Francisco, CA  94143-2280
 
+For FedEX and UPS please use ZIP 94158
 
 
 
@@ -24,9 +25,7 @@ Genentech Hall
 
 Room N514
 
-Lab Phones - (415)
-
-514-0575 or 514-4111
+Lab Phones - (415) 514-0575
 
 Fax - (415) 514-5292
 
