@@ -4,6 +4,32 @@ title: Publications
 permalink: /pubs/
 ---
 
+* Guiley KZ, Stevenson JW, Lou K, Barkovich KJ, Kumarasamy V, Wijeratne TU, Bunch KL, Tripathi S, Knudsen ES, Witkiewicz AK, Shokat KM, Rubin SM.  p27 allosterically activates cyclin-dependent kinase 4 and antagonizes palbociclib inhibition. Science. 2019 Dec 13;366(6471). pii: eaaw2106. doi: 10.1126/*science*.aaw2106.
+
+    ([PMID 31831640](https://www.ncbi.nlm.nih.gov/pubmed/31831640)) ([PDF]({{ site.baseurl }}/pdfs/31831640.pdf))
+
+* Wong RA, Luo X, Lu M, An Z, Haas-Kogan DA, Philips JJ, Shokat KM, Weiss WA, Fan QW.
+Cooperative blockade of PKCα and JAK2 drives apoptosis in glioblastoma.
+Cancer Res. 2019 Dec 5. pii: canres.2808.2018. doi: 10.1158/0008-5472.CAN-18-2808. *Epub ahead of print*
+
+    ([PMID 31806641](https://www.ncbi.nlm.nih.gov/pubmed/31806641)) ([PDF]({{ site.baseurl }}/pdfs/31806641.pdf))
+
+* Fan Q, An Z, Wong RA, Luo X, Lu E, Baldwin A, Mayekar MK, Haderk F, Shokat KM, Bivona TG, Weiss WA.  Betacellulin drives therapy-resistance in glioblastoma.
+Neuro Oncol. 2019 Nov 3. pii: noz206. doi: 10.1093/neuonc/noz206. *Epub ahead of print*
+
+    ([PMID 31678994](https://www.ncbi.nlm.nih.gov/pubmed/31678994)) ([PDF]({{ site.baseurl }}/pdfs/31678994.pdf))
+
+* Loonat AA, Martin ED, Sarafraz-Shekary N, Tilgner K, Hertz NT, Levin R, Shokat KM, Burlingame AL, Arabacilar P, Uddin S, Thomas M, Marber MS, Clark JE. p38γ MAPK contributes to left ventricular remodeling after pathologic stress and disinhibits calpain through phosphorylation of calpastatin. FASEB J. 2019 Dec;33(12):13131-13144. doi: 10.1096/fj.201701545R. *Epub* 2019 Oct 22.
+
+    ([PMID 31638431](https://www.ncbi.nlm.nih.gov/pubmed/31638431)) ([PDF]({{ site.baseurl }}/pdfs/31638431.pdf))
+
+* Zhang Z, Shokat KM. Bifunctional Small-Molecule Ligands of K-Ras Induce Its Association with Immunophilin Proteins. Angew Chem Int Ed Engl. 2019 Nov 4;58(45):16314-16319. doi: 10.1002/anie.201910124. *Epub* 2019 Sep 26. Review.
+
+    ([PMID 31557383](https://www.ncbi.nlm.nih.gov/pubmed/31557383)) ([PDF]({{ site.baseurl }}/pdfs/31557383.pdf))
+
+* Lou K, Gilbert LA, Shokat KM. A Bounty of New Challenging Targets in Oncology for Chemical Discovery.  Biochemistry. 2019 Aug 6;58(31):3328-3330. doi: 10.1021/acs.biochem.9b00570. *Epub* 2019 Jul 25. No abstract available. 
+
+    ([PMID 31343870](https://www.ncbi.nlm.nih.gov/pubmed/31343870)) ([PDF]({{ site.baseurl }}/pdfs/31343870.pdf))
 
 *	Lou, K, Steri V, Ge AY, Hwang YC, Yogodzinski CH, Shkedi AR, Choi ALM, Mitchell DC, Swaney DL, Hann B, Gordan JD, Shokat KM, Gilbert LA. KRASG12C inhibition produces a driver-limited state revealing collateral dependencies. *Sci Signal.* 2019 May 28; 12(583).
 

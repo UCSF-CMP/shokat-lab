@@ -1,0 +1,74 @@
+I"�<p>Headers</p>
+<h1 id="heading">Heading</h1>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>H1 ## Heading
+H2 ### Heading
+H3 #### Heading
+H4 ##### Heading
+H5 ###### Heading
+H6
+</code></pre></div></div>
+
+<p>Inline HTML</p>
+<ul>list</ul>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>You can use the raw HTML in your Markdown
+</code></pre></div></div>
+
+<p>Emphasis
+<em>Text</em>
+	Displays text in italics
+<strong>Text</strong>
+  Displays the text in bold
+<strong><em>Text</em></strong>
+ 	Displays the text in bold and italics
+<del>Text</del>
+	Adds strikethrough effect to the text</p>
+
+<p>Images
+<img src="https://github.com/n48.png" alt="alt text" title="Logo Title" />
+	Inline style</p>
+
+<p>[alt text][logo]
+The reference style. Reference need to be declared as [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png “Logo Title Text 2”</p>
+
+<p>Lists</p>
+<ol>
+  <li>item1
+ First ordered list item</li>
+  <li>item2
+ Second ordered list item
+⋅⋅1. Item
+ Ordered sub-list item
+    <ul>
+      <li>Item
+ Unordered list item
+⋅⋅* Item
+ Unordered sub-list item</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Code and Syntax Highlighting
+  <code class="highlighter-rouge">code</code>
+  	Inline code has back-ticks around it
+  <code class="highlighter-rouge">Code blocks</code>
+  	Blocks of code are either fenced by lines with three back-ticks or are indented with four spaces</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Links
+[text link](https://duckduckgo.com)
+	Inline-style link
+[text link with title](https://duckduckgo.com "DDG Home")
+	Inline-style link with title
+[Reference-style link][Arbitrary case-insensitive reference text]
+	Reference style link
+[Use numbers for reference-style link definitions][1]
+	Links with a reference number. The number needs to be defined as [1]: http://slashdot.org
+
+  Blockquotes
+  &gt; Blockquotes
+  	Blockquotes are very handy in email to emulate reply text
+
+    Horizontal Rule
+  ---
+  	You can get a horizontal rule by typing three or more hyphens (-), asterisks (*) or underscore (_) 
+</code></pre></div></div>
+:ET
