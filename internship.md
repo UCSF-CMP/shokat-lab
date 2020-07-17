@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internship Opputunity
-permalink: /Internship/
+permalink: /internship/
 ---
 
 ![kevan lab pic](../img/3.jpg)
