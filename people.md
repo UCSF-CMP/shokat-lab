@@ -20,8 +20,6 @@ permalink: /people/
 
 ### Students
 
-<a href="{{ site.baseurl }}/nnadi"><span>Chimno Nnadi (joined lab in 2014)</span></a>
-
 <a href="{{ site.baseurl }}/lou"><span>Kevin Lou (joined lab in 2016)</span></a>
 
 <a href="{{ site.baseurl }}/shizhong"><span>Shizhong (Albert) Dai (joined lab in 2017)</span></a>
@@ -33,8 +31,6 @@ permalink: /people/
 <a href="{{ site.baseurl }}/stevenson"><span>Jack Stevenson (joined in 2018)</span></a>
 
 <a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
-
-<a href="{{ site.baseurl }}/gonzalez"><span>Eric Gonzalez (joined in 2018)</span></a>
 
 ### Postdocs
 
@@ -49,3 +45,5 @@ permalink: /people/
 <a href="{{ site.baseurl }}/keelan"><span>Keelan Guiley (joined lab in 2018)</span></a>
 
 <a href="{{ site.baseurl }}/kirby"><span>Ilsa Kirby (joined lab in 2019)</span></a>
+
+<a href="{{ site.baseurl }}/zheng"><span>Qinheng Zheng (joined lab in 2020)</span></a>

@@ -1,6 +1,6 @@
-I"è<p>Headers</p>
+I"Ó<p>Headers</p>
 <h1 id="heading">Heading</h1>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>H1 ## Heading
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>H1 ## Heading
 H2 ### Heading
 H3 #### Heading
 H4 ##### Heading
@@ -10,7 +10,7 @@ H6
 
 <p>Inline HTML</p>
 <ul>list</ul>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>You can use the raw HTML in your Markdown
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>You can use the raw HTML in your Markdown
 </code></pre></div></div>
 
 <p>Emphasis
@@ -48,12 +48,12 @@ The reference style. Reference need to be declared as [logo]: https://github.com
 </ol>
 
 <p>Code and Syntax Highlighting
-  <code class="highlighter-rouge">code</code>
+  <code class="language-plaintext highlighter-rouge">code</code>
   	Inline code has back-ticks around it
-  <code class="highlighter-rouge">Code blocks</code>
+  <code class="language-plaintext highlighter-rouge">Code blocks</code>
   	Blocks of code are either fenced by lines with three back-ticks or are indented with four spaces</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Links
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Links
 [text link](https://duckduckgo.com)
 	Inline-style link
 [text link with title](https://duckduckgo.com "DDG Home")
