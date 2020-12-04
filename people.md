@@ -32,6 +32,8 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
 
+<a href="{{ site.baseurl }}/shen"><span>Wenqi Shen (joined in 2020)</span></a>
+
 ### Postdocs
 
 <a href="{{ site.baseurl }}/zhang"><span>Ziyang Zhang (joined lab in 2016)</span></a>
