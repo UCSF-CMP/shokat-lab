@@ -32,7 +32,7 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
 
-<a href="{{ site.baseurl }}/shen"><span>Wenqi Shen (joined in 2020)</span></a>
+<a href="{{ site.baseurl }}/morstein"><span>Johannes Morstein (joined in 2021)</span></a>
 
 ### Postdocs
 
