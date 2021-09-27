@@ -32,7 +32,8 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
 
-<a href="{{ site.baseurl }}/morstein"><span>Johannes Morstein (joined in 2021)</span></a>
+<a href="{{ site.baseurl }}/wang"><span>Siyi Wang (joined in 2021)</span></a>
+
 
 ### Postdocs
 
@@ -49,3 +50,5 @@ permalink: /people/
 <a href="{{ site.baseurl }}/kirby"><span>Ilsa Kirby (joined lab in 2019)</span></a>
 
 <a href="{{ site.baseurl }}/zheng"><span>Qinheng Zheng (joined lab in 2020)</span></a>
+
+<a href="{{ site.baseurl }}/morstein"><span>Johannes Morstein (joined in 2021)</span></a>

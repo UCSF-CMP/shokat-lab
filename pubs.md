@@ -4,18 +4,6 @@ title: Publications
 permalink: /pubs/
 ---
 
-* Coles GL, Cristea S, Webber JT, Levin RS, Moss SM, He A, Sangodkar J, Hwang YC, Arand J, Drainas AP, Mooney NA, Demeter J, Spradlin JN, Mauch B, Le V, Shue YT, Ko JH, Lee MC, Kong C, Nomura DK, Ohlmeyer M, Swaney DL, Krogan NJ, Jackson PK, Narla G, Gordan JD, Shokat KM, Sage J. Unbiased Proteomic Profiling Uncovers a Targetable GNAS/PKA/PP2A Axis in Small Cell Lung Cancer Stem Cells. Cancer Cell. 2020 May 22. PMID: 32531271;  PMC7363571
-
-    ([PMID 32531271](https://www.ncbi.nlm.nih.gov/pubmed/32531271)) ([PDF]({{ site.baseurl }}/pdfs/32531271.pdf))
-
-* Ziyang Zhang, Rong Gao, Qi Hu, Hayden Peacock, D. Matthew Peacock, Shizhong Dai, Kevan M. Shokat and Hiroaki Suga* GTP-State-Selective Cyclic Peptide Ligands of K‐Ras(G12D) Block Its Interaction with Raf. Sept 23, 2020, ACS; PMID: 33145412 PMCID: PMC7596874; DOI: 10.1021/acscentsci.0c00514
-
-    ([PMID 33145412](https://www.ncbi.nlm.nih.gov/pubmed/33145412)) ([PDF]({{ site.baseurl }}/pdfs/33145412.pdf))
-
-*	Melnyk JE, Steri V, Nguyen HG, Hann B, Feng FY, Shokat KM. The splicinmodulator sulfonamide indisulam reduces AR-V7 in prostate cancer cells. BioorgMed Chem. 2020 Oct 15;28(20):115712. doi: 10.1016/j.bmc.2020.115712. Epub 2020 Aug 18. PMID: 33069070.
-
-    ([PMID 33069070](https://www.ncbi.nlm.nih.gov/pubmed/33069070)) ([PDF]({{ site.baseurl }}/pdfs/33069070.pdf))
-
 * Wolpaw AJ, Bayliss R, Büchel G, Dang CV, Eilers M, Gustafson WC, Hansen GM, Jura N, Knapp S, Lemmon MA, Levens D, Maris JM, Marmorstein R, Metallo SJ, Park JR, Penn LZ, Rape M, Roussel MF, Shokat KM, Tansey WP, Verba KA, Vos SM, Weiss WA, Wolf E, Mossé YP. Drugging the 'undruggable' MYCN oncogenic transcription factor: Overcoming previous obstacles to impact childhood cancers. Cancer Res. 2021 Jan 28:canres.3108.2020. doi: 10.1158/0008-5472.CAN-20-3108. Online ahead of print. PMID: 33509943
 
     ([PMID 33509943](https://www.ncbi.nlm.nih.gov/pubmed/33509943)) ([PDF]({{ site.baseurl }}/pdfs/33509943.pdf))
@@ -33,6 +21,19 @@ permalink: /pubs/
 * Tia A Tummino, Veronica V Rezelj, Benoit Fischer, Audrey Fischer, Matthew J O'Meara, Blandine Monel, Thomas Vallet, Ziyang Zhang, Assaf Alon, Henry R O'Donnell, Jiankun Lyu, Heiko Schadt, Kris M White, Nevan J Krogan, Laszlo Urban, Kevan M Shokat, Andrew C Kruse, Adolfo García-Sastre, Olivier Schwartz, Francesca Moretti, Marco Vignuzzi, Francois Pognan, Brian K Shoichet.  Phospholipidosis is a shared mechanism underlying the in vitro antiviral activity of many repurposed drugs against SARS-CoV-2.  bioRxiv. 2021 Mar 24;2021.03.23.436648. doi: 10.1101/2021.03.23.436648. Preprint; PMID: 33791693; PMCID: PMC8010720
 
     ([PMID 33791693](https://www.ncbi.nlm.nih.gov/pubmed/33791693)) ([PDF]({{ site.baseurl }}/pdfs/33791693.pdf))
+
+* Coles GL, Cristea S, Webber JT, Levin RS, Moss SM, He A, Sangodkar J, Hwang YC, Arand J, Drainas AP, Mooney NA, Demeter J, Spradlin JN, Mauch B, Le V, Shue YT, Ko JH, Lee MC, Kong C, Nomura DK, Ohlmeyer M, Swaney DL, Krogan NJ, Jackson PK, Narla G, Gordan JD, Shokat KM, Sage J. Unbiased Proteomic Profiling Uncovers a Targetable GNAS/PKA/PP2A Axis in Small Cell Lung Cancer Stem Cells. Cancer Cell. 2020 May 22. PMID: 32531271;  PMC7363571
+
+    ([PMID 32531271](https://www.ncbi.nlm.nih.gov/pubmed/32531271)) ([PDF]({{ site.baseurl }}/pdfs/32531271.pdf))
+
+* Ziyang Zhang, Rong Gao, Qi Hu, Hayden Peacock, D. Matthew Peacock, Shizhong Dai, Kevan M. Shokat and Hiroaki Suga* GTP-State-Selective Cyclic Peptide Ligands of K‐Ras(G12D) Block Its Interaction with Raf. Sept 23, 2020, ACS; PMID: 33145412 PMCID: PMC7596874; DOI: 10.1021/acscentsci.0c00514
+
+    ([PMID 33145412](https://www.ncbi.nlm.nih.gov/pubmed/33145412)) ([PDF]({{ site.baseurl }}/pdfs/33145412.pdf))
+
+*	Melnyk JE, Steri V, Nguyen HG, Hann B, Feng FY, Shokat KM. The splicinmodulator sulfonamide indisulam reduces AR-V7 in prostate cancer cells. BioorgMed Chem. 2020 Oct 15;28(20):115712. doi: 10.1016/j.bmc.2020.115712. Epub 2020 Aug 18. PMID: 33069070.
+
+    ([PMID 33069070](https://www.ncbi.nlm.nih.gov/pubmed/33069070)) ([PDF]({{ site.baseurl }}/pdfs/33069070.pdf))
+
 
 * Guiley KZ, Stevenson JW, Lou K, Barkovich KJ, Kumarasamy V, Wijeratne TU, Bunch KL, Tripathi S, Knudsen ES, Witkiewicz AK, Shokat KM, Rubin SM.  p27 allosterically activates cyclin-dependent kinase 4 and antagonizes palbociclib inhibition. Science. 2019 Dec 13;366(6471). pii: eaaw2106. doi: 10.1126/*science*.aaw2106.
 
