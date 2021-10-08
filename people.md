@@ -28,9 +28,11 @@ permalink: /people/
 
 <a href="{{ site.baseurl }}/zhu"><span>Lawrence Zhu (joined in 2018)</span></a>
 
+<a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
+
 <a href="{{ site.baseurl }}/stevenson"><span>Jack Stevenson (joined in 2018)</span></a>
 
-<a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
+<a href="{{ site.baseurl }}/shen"><span>Wenqi Shen (joined in 2020)</span></a>
 
 <a href="{{ site.baseurl }}/wang"><span>Siyi Wang (joined in 2021)</span></a>
 
@@ -46,8 +48,6 @@ permalink: /people/
 <a href="{{ site.baseurl }}/peacock"><span>Matthew Peacock (joined lab in 2018)</span></a>
 
 <a href="{{ site.baseurl }}/keelan"><span>Keelan Guiley (joined lab in 2018)</span></a>
-
-<a href="{{ site.baseurl }}/kirby"><span>Ilsa Kirby (joined lab in 2019)</span></a>
 
 <a href="{{ site.baseurl }}/zheng"><span>Qinheng Zheng (joined lab in 2020)</span></a>
 
