@@ -5,7 +5,7 @@ permalink: /zheng/
 ---
 Zyang joined the lab in 2016.
 
-![zhang pic](../img/zheng.jpg)
+![zhang pic](../img/zheng.jpg){: width="60%" }
 
 
 

@@ -5,7 +5,7 @@ permalink: /zhang/
 ---
 Ziyang joined the lab in 2016.
 
-![zhang pic](../img/zhang.png)
+![zhang pic](../img/zhang.png){: width="60%" }
 
 
 

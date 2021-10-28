@@ -3,9 +3,9 @@ layout: page
 title: Wenqi Shen
 permalink: /shen/
 ---
-Wenqi joined the lab in 2014.
+Wenqi joined the lab in 2020.
 
-![wenqi pic](../img/shen.jpg)
+![wenqi pic](../img/shen.jpg){: width="60%" }
 
 
 

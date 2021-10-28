@@ -5,7 +5,7 @@ permalink: /stevenson/
 ---
 Jack joined the lab in 2018.
 
-![Jack Stevenson pic](../img/jack.jpg)
+![Jack Stevenson pic](../img/jack.jpg){: width="60%" }
 
 
 

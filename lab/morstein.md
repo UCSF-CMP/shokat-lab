@@ -5,7 +5,7 @@ permalink: /morstein/
 ---
 Johannes joined the lab in2021.
 
-![Johannes pic](../img/morstein.png)
+![Johannes pic](../img/morstein.png){: width="60%" }
 
 
 
