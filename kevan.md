@@ -1,7 +1,7 @@
 ---
 layout: faculty
-title: Publications
-permalink: /publications/
+title: Kevan Shokat
+permalink: /kevan/
 ---
 <head>
     <!-- load a recent version of jQuery -->
