@@ -64,3 +64,7 @@ Talk to any of us—we’re happy to tell you more!
 <a href="{{ site.baseurl }}/zheng"><span>Qinheng Zheng (joined in 2020)</span></a>
 
 <a href="{{ site.baseurl }}/morstein"><span>Johannes Morstein (joined in 2021)</span></a>
+
+### Lab Timeline
+{: style="text-align:center"}
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FY-5ZrMrgA3n_SwBqh9L24hU691sprYoL4Wl3SU5lZU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
