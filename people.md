@@ -15,11 +15,6 @@ We value our time outside of lab as well as our time in it. We take the space we
 
 Talk to any of us—we’re happy to tell you more!
 
-
-| ![Word Cloud](../img/wordcloud.png) |
-|:--:|
-| Word cloud of the values of Shokat lab members in our 2021 community circle |
-
 ## Current Lab Members
 
 ### Principal Investigator
@@ -64,6 +59,10 @@ Talk to any of us—we’re happy to tell you more!
 <a href="{{ site.baseurl }}/zheng"><span>Qinheng Zheng (joined in 2020)</span></a>
 
 <a href="{{ site.baseurl }}/morstein"><span>Johannes Morstein (joined in 2021)</span></a>
+
+| Word cloud of the values of Shokat lab members in our 2021 community circle |
+|:--:|
+| ![Word Cloud](../img/wordcloud.png) |
 
 ### Lab Timeline
 {: style="text-align:center"}
