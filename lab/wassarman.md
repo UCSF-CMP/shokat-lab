@@ -3,7 +3,7 @@ layout: page
 title: Douglas Wassarman
 permalink: /wassarman/
 ---
-Douglas joined the lab in 2017
+Doug joined the lab in 2017.
 
 ![Douglas pic](../img/wassarmanan.jpg){: width="60%" }
 

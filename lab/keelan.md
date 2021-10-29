@@ -4,7 +4,7 @@ title: Keelan Guiley
 permalink: /keelan/
 ---
 
-Keelan joined the lab in 2018
+Keelan joined the lab in 2018.
 
 ![keelan pic](../img/keelan.png){: width="60%" }
 

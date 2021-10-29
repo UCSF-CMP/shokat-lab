@@ -3,7 +3,7 @@ layout: page
 title: Johannes Morstein
 permalink: /morstein/
 ---
-Johannes joined the lab in2021.
+Johannes joined the lab in 2021.
 
 ![Johannes pic](../img/morstein.png){: width="60%" }
 

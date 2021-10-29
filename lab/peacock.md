@@ -3,7 +3,7 @@ layout: page
 title: Matthew Peacock
 permalink: /peacock/
 ---
-Matt joined the lab in 2018
+Matt joined the lab in 2018.
 
 ![peacock pic](../img/peacock.jpg){: width="60%" }
 

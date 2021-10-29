@@ -3,7 +3,7 @@ layout: page
 title:  Lawrence Zhu
 permalink: /zhu/
 ---
-Lawrence joined the lab in 2018.
+Larry joined the lab in 2018.
 
 ![zhu pic](../img/zhu.jpg){: width="60%" }
 
