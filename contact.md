@@ -6,21 +6,12 @@ permalink: /contact/
 
 # Useful links
 
-[University of California San Francisco](http://www.ucsf.edu "UCSF").
+[Our home department at UCSF: the Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/).
 
-[University of California Berkeley, College of Chemistry](http://chemistry.berkeley.edu/ "Cal").
 
-[University of California Berkeley, ChemBio](http://chembio.berkeley.edu/ "Cal Chem Bio").
+[Our home department at Berkeley: the College of Chemistry](http://chemistry.berkeley.edu/).
 
-[UCSF Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/ "CMP").
-
-[UCSF Chemistry and Chemical Biology Graduate Program](http://ccb.ucsf.edu/ "CCB").
-
-[UCSF Biophysics Graduate Program ](http://biophysics.ucsf.edu/ "biophysics grad program").
-
-[UCSF Tetrad Graduate Program](http://tetrad.ucsf.edu/ "tetrad").
-
-[Kinase database](http://shokatlab.ucsf.edu/ksd/ "KSD").
+<a href="{{ site.baseurl }}/ksd"><span>Kinase database</span></a>.
 
 [SPOT](http://shokatlab.ucsf.edu/spot/ "SPOT").
 
@@ -40,7 +31,7 @@ For FedEX and UPS please use ZIP 94158
 
 
 
-# Lab
+# Lab Address
 600 16th St
 
 Genentech Hall, Room N514
