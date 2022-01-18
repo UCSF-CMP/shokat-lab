@@ -61,7 +61,7 @@ Phone - (415) 514-0472
 
 Fax - (415) 514-5292
 
-Email - Kevan.Shokat@ucsf.edu
+Email - [Kevan.Shokat@ucsf.edu](mailto:Kevan.Shokat@ucsf.edu)
 
 
 
@@ -69,7 +69,7 @@ Email - Kevan.Shokat@ucsf.edu
 
 Delaney Lynch
 
-Delaney.Lynch@ucsf.edu
+[Delaney.Lynch@ucsf.edu](mailto:Delaney.Lynch@ucsf.edu)
 
 Phone - (415) 502-1475
 
