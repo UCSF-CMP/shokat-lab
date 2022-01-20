@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Join
+title: Join!
 permalink: /join/
 ---
 ### The Shokat lab is accepting new lab members!
+We are proud to welcome members of all backgrounds.
+
 Our lab is mostly composed of graduate students and postdoctoral fellows, but we are also open to interest from potential visiting scholars, as well as potential interns at stages from post-baccalaureate to current undergraduate to high school. If you are not sure whether you belong at the Shokat lab, please reach out to Kevan directly at [Kevan.Shokat@ucsf.edu](mailto:Kevan.Shokat@ucsf.edu).
 
 ### Postdoctoral fellows
