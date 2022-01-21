@@ -19,61 +19,63 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Principal Investigator
 
-![Kevan pic](../img/kevan.jpg){: height="200" }
-<a href="{{ site.baseurl }}/kevan"><span>Kevan Shokat (joined in 1994)</span></a>
+
+<a href="{{ site.baseurl }}/kevan"><span>![Kevan pic](../img/kevan.jpg){: height="200" } Kevan Shokat (joined in 1994)</span></a>
 
 ### Administrative Coordinator
 
-![Delaney pic](../img/delaney.jpg){: height="200" }
-<a href="{{ site.baseurl }}/delaney"><span>Delaney Lynch (joined in 2013)</span></a>
+
+<a href="{{ site.baseurl }}/delaney"><span>![Delaney pic](../img/delaney.jpg){: height="200" } Delaney Lynch (joined in 2013)</span></a>
 
 ### Students
 
-![Kevin pic](../img/kevin.jpg){: height="200" }
-<a href="{{ site.baseurl }}/lou"><span>Kevin Lou (joined in 2016)</span></a>
 
-![Shizhong pic](../img/shizhong_dai.jpg){: height="200" }
-<a href="{{ site.baseurl }}/shizhong"><span>Shizhong (Albert) Dai (joined in 2017)</span></a>
+<a href="{{ site.baseurl }}/lou"><span>![Kevin pic](../img/kevin.jpg){: height="200" } Kevin Lou (joined in 2016)</span></a>
 
-![Doug pic](../img/wassarman.jpg){: height="200" }<a href="{{ site.baseurl }}/wassarman"><span>Doug Wassarman (joined in 2017)</span></a>
 
-![Larry pic](../img/zhu.jpg){: height="200" }
-<a href="{{ site.baseurl }}/zhu"><span>Lawrence Zhu (joined in 2018)</span></a>
+<a href="{{ site.baseurl }}/shizhong"><span>![Shizhong pic](../img/shizhong_dai.jpg){: height="200" } Shizhong (Albert) Dai (joined in 2017)</span></a>
 
-![Megan pic](../img/moore.jpg){: height="200" }
-<a href="{{ site.baseurl }}/moore"><span>Megan Moore (joined in 2018)</span></a>
 
-![Jack Stevenson pic](../img/jack.jpg){: height="200" }
-<a href="{{ site.baseurl }}/stevenson"><span>Jack Stevenson (joined in 2018)</span></a>
+<a href="{{ site.baseurl }}/wassarman"><span>![Doug pic](../img/wassarman.jpg){: height="200" } Doug Wassarman (joined in 2017)</span></a>
 
-![Wenqi pic](../img/shen.jpg){: height="200" }
-<a href="{{ site.baseurl }}/shen"><span>Wenqi Shen (joined in 2020)</span></a>
 
-![Siyi pic](../img/wang.jpg){: height="200" }
-<a href="{{ site.baseurl }}/wang"><span>Siyi Wang (joined in 2021)</span></a>
+<a href="{{ site.baseurl }}/zhu"><span>![Larry pic](../img/zhu.jpg){: height="200" } Lawrence Zhu (joined in 2018)</span></a>
+
+
+<a href="{{ site.baseurl }}/moore"><span>![Megan pic](../img/moore.jpg){: height="200" } Megan Moore (joined in 2018)</span></a>
+
+
+<a href="{{ site.baseurl }}/stevenson"><span>![Jack Stevenson pic](../img/jack.jpg){: height="200" } Jack Stevenson (joined in 2018)</span></a>
+
+
+<a href="{{ site.baseurl }}/shen"><span>![Wenqi pic](../img/shen.jpg){: height="200" } Wenqi Shen (joined in 2020)</span></a>
+
+
+<a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
 
 
 ### Postdocs
 
-![Ziyang pic](../img/zhang.png){: height="200" }
-<a href="{{ site.baseurl }}/zhang"><span>Ziyang Zhang (joined in 2016)</span></a>
 
-![Jim pic](../img/melnyk.jpg){: height="200" }
-<a href="{{ site.baseurl }}/melnyk"><span>Jim Melnyk (joined in 2017)</span></a>
+<a href="{{ site.baseurl }}/zhang"><span>![Ziyang pic](../img/zhang.png){: height="200" } Ziyang Zhang (joined in 2016)</span></a>
 
-![Ying pic](../img/ying.jpg){: height="200" }<a href="{{ site.baseurl }}/shi"><span>Ying Shi (joined in 2018)</span></a>
 
-![Matt pic](../img/peacock.jpg){: height="200" }
-<a href="{{ site.baseurl }}/peacock"><span>Matthew Peacock (joined in 2018)</span></a>
+<a href="{{ site.baseurl }}/melnyk"><span>![Jim pic](../img/melnyk.jpg){: height="200" } Jim Melnyk (joined in 2017)</span></a>
 
-![Keelan pic](../img/keelan.png){: height="200" }
-<a href="{{ site.baseurl }}/keelan"><span>Keelan Guiley (joined in 2018)</span></a>
 
-![Qinheng pic](../img/zheng.jpg){: height="200" }
-<a href="{{ site.baseurl }}/zheng"><span>Qinheng Zheng (joined in 2020)</span></a>
+<a href="{{ site.baseurl }}/shi"><span>![Ying pic](../img/ying.jpg){: height="200" } Ying Shi (joined in 2018)</span></a>
 
-![Johannes pic](../img/morstein.png){: height="200" }
-<a href="{{ site.baseurl }}/morstein"><span>Johannes Morstein (joined in 2021)</span></a>
+
+<a href="{{ site.baseurl }}/peacock"><span>![Matt pic](../img/peacock.jpg){: height="200" } Matthew Peacock (joined in 2018)</span></a>
+
+
+<a href="{{ site.baseurl }}/keelan"><span>![Keelan pic](../img/keelan.png){: height="200" } Keelan Guiley (joined in 2018)</span></a>
+
+
+<a href="{{ site.baseurl }}/zheng"><span>![Qinheng pic](../img/zheng.jpg){: height="200" } Qinheng Zheng (joined in 2020)</span></a>
+
+
+<a href="{{ site.baseurl }}/morstein"><span>![Johannes pic](../img/morstein.png){: height="200" } Johannes Morstein (joined in 2021)</span></a>
 
 | Word cloud of the values of Shokat lab members in our 2021 community circle |
 |:--:|
