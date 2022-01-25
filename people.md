@@ -77,7 +77,7 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/morstein"><span>![Johannes pic](../img/morstein.png){: height="200" } Johannes Morstein (joined in 2021)</span></a>
 
-| Word cloud of the values of Shokat lab members in our 2021 community circle |
+| Word cloud of the values of Shokat lab members from our 2021 community circle |
 |:--:|
 | ![Word Cloud](../img/wordcloud.png) |
 
