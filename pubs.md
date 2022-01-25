@@ -94,7 +94,7 @@ Neuro Oncol. 2019 Nov 3. pii: noz206. doi: 10.1093/neuonc/noz206. *Epub ahead of
 
   ([PMID 30102385](https://www.ncbi.nlm.nih.gov/pubmed/30102385)) ([PDF]({{ site.baseurl }}/pdfs/30102385.pdf))
 
-* Chorba JS, Galvan AM, Shokat KM. A high-throughput luciferase sssay to rvaluate proteolysis of the dingle-turnover protease PCSK9. *J Vis Exp.* 2018 Aug 28; (138).
+* Chorba JS, Galvan AM, Shokat KM. A high-throughput luciferase sssay to evaluate proteolysis of the single-turnover protease PCSK9. *J Vis Exp.* 2018 Aug 28; (138).
 
   ([PMID 30222160](https://www.ncbi.nlm.nih.gov/pubmed/30222160)) ([PDF]({{ site.baseurl }}/pdfs/30222160.pdf))
 
