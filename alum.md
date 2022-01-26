@@ -24,7 +24,7 @@ The Shokat lab supports its members fully in the pursuit of a wide variety of ca
 | Jonathan Ostrem       | 2009         | 2013            | Postdoc, Shokat lab                                             | Clinical Fellow, Medical Oncology, Dana-Farber Cancer Institute          |
 | Megan Riel-Mehan      | 2009         | 2013            | Postdoc, UCSF                                                   | Visualization Scientist, Allen Institute for Cell Science                |
 | Michael Lopez         | 2008         | 2013            | Postdoc, Genentech                                              | Associate Director, Medicinal Chemistry, Revagenix Inc.                  |
-| Joe Kliegman          | 2008         | 2013            | Postdoc, UCSF                                                   | Research Strategy Executive, Cerner Corp.                                |
+| Joseph Kliegman       | 2008         | 2013            | Postdoc, UCSF                                                   | Research Strategy Executive, Cerner Corp.                                |
 | Nicholas Hertz        | 2008         | 2013            | Postdoc, Rockefeller                                            | Chief Scientific Officer, Mitokinin Inc.                                 |
 | Gregory Ducker        | 2008         | 2013            | Postdoc, Princeton                                              | Assistant Professor, Biochemistry, University of Utah                    |
 | Olusegun Williams     | 2006         | 2011            | Consultant, Bain & Co.                                          | Director, Oncology Lead, Pipeline and Portfolio Planning, Genentech      |
