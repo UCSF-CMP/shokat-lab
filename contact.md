@@ -6,14 +6,16 @@ permalink: /contact/
 
 # Useful links
 
-[Our home department at UCSF: the Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/).
+[Our home department at UCSF: the Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/)
 
 
-[Our home department at Berkeley: the College of Chemistry](http://chemistry.berkeley.edu/).
+[Our home department at Berkeley: the College of Chemistry](http://chemistry.berkeley.edu/)
 
-<a href="{{ site.baseurl }}/ksd"><span>Kinase database</span></a>.
+[cellpanelr, a tool for analyzing data from cell line panels](https://dwassarman.shinyapps.io/cellpanelr/)
 
-[SPOT](http://shokatlab.ucsf.edu/spot/ "SPOT").
+<a href="{{ site.baseurl }}/ksd"><span>Kinase database</span></a>
+
+<a href="{{ site.baseurl }}/spot"><span>SPOT, a tool for analyzing data lipid kinase assays</span></a>
 
 
 # Mailing Address
