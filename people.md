@@ -30,12 +30,6 @@ Talk to any of us—we’re happy to tell you more!
 ### Students
 
 
-<a href="{{ site.baseurl }}/lou"><span>![Kevin pic](../img/kevin.jpg){: height="200" } Kevin Lou (joined in 2016)</span></a>
-
-
-<a href="{{ site.baseurl }}/shizhong"><span>![Shizhong pic](../img/shizhong_dai.jpg){: height="200" } Shizhong (Albert) Dai (joined in 2017)</span></a>
-
-
 <a href="{{ site.baseurl }}/wassarman"><span>![Doug pic](../img/wassarman.jpg){: height="200" } Doug Wassarman (joined in 2017)</span></a>
 
 
@@ -57,12 +51,6 @@ Talk to any of us—we’re happy to tell you more!
 ### Postdocs
 
 
-<a href="{{ site.baseurl }}/zhang"><span>![Ziyang pic](../img/zhang.png){: height="200" } Ziyang Zhang (joined in 2016)</span></a>
-
-
-<a href="{{ site.baseurl }}/melnyk"><span>![Jim pic](../img/melnyk.jpg){: height="200" } Jim Melnyk (joined in 2017)</span></a>
-
-
 <a href="{{ site.baseurl }}/shi"><span>![Ying pic](../img/ying.jpg){: height="200" } Ying Shi (joined in 2018)</span></a>
 
 
@@ -76,6 +64,13 @@ Talk to any of us—we’re happy to tell you more!
 
 
 <a href="{{ site.baseurl }}/morstein"><span>![Johannes pic](../img/morstein.png){: height="200" } Johannes Morstein (joined in 2021)</span></a>
+
+
+### Visiting Scholars
+
+
+<a href="{{ site.baseurl }}/harma"><span>![Harri pic](../img/harri.jpeg){: height="200" } Harri Härmä (joined in 2022)</span></a>
+
 
 | Word cloud of the values of Shokat lab members from our 2021 community circle |
 |:--:|
