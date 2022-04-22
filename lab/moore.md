@@ -5,7 +5,7 @@ permalink: /moore/
 ---
 Megan joined the lab in 2018.
 
-![Megan pic](../img/moore.jpg)
+![Megan pic](../img/moore.jpg){: width="60%" }
 
 
 

@@ -5,7 +5,7 @@ permalink: /chorba/
 ---
 John joined the lab in 2012
 
-![john pic](../img/chorba.jpg)
+![john pic](../img/chorba.jpg){: width="60%" }
 
 
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Dai Shizhong
+title: Shizhong Dai
 permalink: /shizhong/
 ---
-Dai joined the lab in 2017.
+Shizhong joined the lab in 2017.
 
-![Dai Shizhong pic](../img/shizhong_dai.jpg)
+![Shizhong pic](../img/shizhong_dai.jpg){: width="60%" }
 
 
 

@@ -3,9 +3,9 @@ layout: page
 title: Jim Melnyk
 permalink: /melnyk/
 ---
-Jim joined the lab in 2016.
+Jim joined the lab in 2017.
 
-![melnyk pic](../img/melnyk.jpg)
+![melnyk pic](../img/melnyk.jpg){: width="60%" }
 
 
 

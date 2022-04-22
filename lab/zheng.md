@@ -3,9 +3,9 @@ layout: page
 title: Qinheng Zheng
 permalink: /zheng/
 ---
-Zyang joined the lab in 2016.
+Qinheng joined the lab in 2016.
 
-![zhang pic](../img/zheng.jpg)
+![zheng pic](../img/zheng.jpg){: width="60%" }
 
 
 
