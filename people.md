@@ -29,6 +29,7 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Students
 
+<a href="{{ site.baseurl }}/shizhong"><span>![Shizhong pic](../img/shizhong_dai.jpg){: height="200" } Shizhong Dai (joined in 2017)</span></a>
 
 <a href="{{ site.baseurl }}/wassarman"><span>![Doug pic](../img/wassarman.jpg){: height="200" } Doug Wassarman (joined in 2017)</span></a>
 

@@ -9,7 +9,6 @@ The Shokat lab supports its members fully in the pursuit of a wide variety of ca
 
 | Name                  | Joining year | Graduation year | Position immediately after graduation                           | Current position                                                         |
 | --------------------- | ------------ | --------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Shizhong Dai          | 2017         | 2022            | Postdoc, Stanford                                               | Postdoc, Stanford                                                        |
 | Kevin Lou             | 2016         | 2022            | Back to medical school at UCSF                                  | Back to medical school at UCSF                                           |
 | Steven Moss           | 2015         | 2019            | Intern, National Academies of Science, Engineering and Medicine | Program Officer, National Academies of Science, Engineering and Medicine |
 | Chimno Nnadi          | 2014         | 2019            | Back to medical school at UCSF                                  | Back to medical school at UCSF                                           |

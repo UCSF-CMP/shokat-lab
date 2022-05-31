@@ -3,7 +3,7 @@ layout: page
 title: Harri Härmä
 permalink: /harma/
 ---
-Harri joined the lab in 2020.
+Harri joined the lab in 2022.
 
 ![Harri pic](../img/harri.jpeg){: width="60%" }
 
