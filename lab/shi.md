@@ -5,7 +5,7 @@ permalink: /shi/
 ---
 Ying joined the lab in 2018.
 
-![ying shi pic](../img/ying_shokat lab.jpg)
+![ying shi pic](../img/ying.jpg)
 
 
 

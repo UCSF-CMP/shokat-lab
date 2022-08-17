@@ -2,6 +2,7 @@
 layout: page
 title: markdown cheatsheet
 permalink: /cheat/
+published: false
 ---
 
 Headers
