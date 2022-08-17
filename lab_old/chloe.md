@@ -2,6 +2,7 @@
 layout: page
 title: Chloe Atreya
 permalink: /chloe/
+published: false
 ---
 
 ![chloe pic](../img/chloe.jpg)

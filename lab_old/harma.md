@@ -2,6 +2,7 @@
 layout: page
 title: Harri Härmä
 permalink: /harma/
+published: false
 ---
 Harri joined the lab in 2022.
 

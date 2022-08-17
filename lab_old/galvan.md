@@ -2,6 +2,7 @@
 layout: page
 title: Adri Galvan
 permalink: /galvan/
+published: false
 ---
 Adri joined the lab in 2017
 

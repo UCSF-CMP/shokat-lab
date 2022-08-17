@@ -2,6 +2,7 @@
 layout: page
 title: Allison Wong
 permalink: /wong/
+published: false
 ---
 Allison joined the lab in 2014. 
 

@@ -2,6 +2,7 @@
 layout: page
 title: Ziyang Zhang
 permalink: /zhang/
+published: false
 ---
 Ziyang joined the lab in 2016.
 

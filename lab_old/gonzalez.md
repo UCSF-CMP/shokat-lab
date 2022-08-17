@@ -2,6 +2,7 @@
 layout: page
 title: Eric Gonzalez
 permalink: /gonzalez/
+published: false
 ---
 Eric joined the lab in 2018.
 

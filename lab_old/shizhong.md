@@ -2,6 +2,7 @@
 layout: page
 title: Shizhong Dai
 permalink: /shizhong/
+published: false
 ---
 Shizhong joined the lab in 2017.
 
