@@ -2,6 +2,7 @@
 layout: page
 title: Kevin Lou
 permalink: /lou/
+published: false
 ---
 Kevin joined the lab in 2016
 

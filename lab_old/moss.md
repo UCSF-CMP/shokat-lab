@@ -2,6 +2,7 @@
 layout: page
 title: Steven Moss
 permalink: /moss/
+published: false
 ---
 Steven joined the lab in 2016. 
 

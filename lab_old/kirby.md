@@ -2,6 +2,7 @@
 layout: page
 title: Ilsa kirby
 permalink: /kirby/
+published: false
 ---
 
 Ilsa joined the lab in 2019

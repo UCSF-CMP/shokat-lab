@@ -2,6 +2,7 @@
 layout: page
 title: Jim Melnyk
 permalink: /melnyk/
+published: false
 ---
 Jim joined the lab in 2017.
 

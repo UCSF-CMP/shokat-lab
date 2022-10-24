@@ -2,6 +2,7 @@
 layout: page
 title: Chimno Nnadi
 permalink: /nnadi/
+published: false
 ---
 Chimno joined the lab in 2014. 
 

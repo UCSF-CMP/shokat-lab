@@ -2,6 +2,7 @@
 layout: page
 title: Florentine Rutaganira
 permalink: /rutaganira/
+published: false
 ---
 Florentine joined the lab in 2009
 

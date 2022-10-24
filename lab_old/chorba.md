@@ -2,6 +2,7 @@
 layout: page
 title: John Chorba
 permalink: /chorba/
+published: false
 ---
 John joined the lab in 2012
 

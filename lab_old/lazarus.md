@@ -2,6 +2,7 @@
 layout: page
 title: Michael Lazarus
 permalink: /lazarus/
+published: false
 ---
 
 Michael joined the lab in 2012

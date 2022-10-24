@@ -2,6 +2,7 @@
 layout: page
 title: Rebecca Levin
 permalink: /levin/
+published: false
 ---
 Becca joined the lab in 2011. 
 
