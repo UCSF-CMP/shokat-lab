@@ -9,10 +9,11 @@ The Shokat lab supports its members fully in the pursuit of a wide variety of ca
 
 | Name                  | Joining year | Graduation year | Position immediately after graduation                           | Current position                                                         |
 | --------------------- | ------------ | --------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Doug Wassarman        | 2017         | 2022            | Postdoc, Dana Farber                                            | Postdoc, Dana Farber                                                     |
 | Shizhong Dai          | 2017         | 2022            | Postdoc, Stanford                                               | Postdoc, Stanford                                                        |
 | Kevin Lou             | 2016         | 2022            | Back to medical school at UCSF                                  | Back to medical school at UCSF                                           |
 | Steven Moss           | 2015         | 2019            | Intern, National Academies of Science, Engineering and Medicine | Program Officer, National Academies of Science, Engineering and Medicine |
-| Chimno Nnadi          | 2014         | 2019            | Back to medical school at UCSF                                  | Back to medical school at UCSF                                           |
+| Chimno Nnadi          | 2014         | 2019            | Back to medical school at UCSF                                  | Resident, UCSF Psychiatry                                                |
 | Eric Gonzalez         | 2018         | 2019            | Graduated with MS                                               |                                                                          |
 | Allison Wong          | 2014         | 2018            | Back to medical school at UCSF                                  | Resident, UCSF Internal Medicine                                         |
 | Krister Barkovich     | 2013         | 2018            | Back to medical school at UCSF                                  | Resident, UCSD Radiology                                                 |
@@ -41,8 +42,10 @@ The Shokat lab supports its members fully in the pursuit of a wide variety of ca
 
 | Name                  | Joining year | Finishing year | Position immediately after leaving                                          | Current position                                                                                     |
 | --------------------- | ------------ | -------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Keelan Guiley         | 2018         | 2022           | Assoc. Dir. of Protein Science, Rezolute Bio                                | Assoc. Dir. of Protein Science, Rezolute Bio                                                         |
+| D. Matthew Peacock    | 2018         | 2022           | Scientist, Novartis                                                         | Scientist, Novartis                                                                                  |
 | James Melnyk          | 2017         | 2022           | Scientist, Merck & Co.                                                      | Scientist, Merck & Co.                                                                               |
-| Ziyang Zhang          | 2016         | 2022           | Assistant Professor, UC Berkeley                                            | Assistant Professor, Chemistry, UC Berkeley                                                          |
+| Ziyang Zhang          | 2016         | 2022           | Assistant Professor, Chemistry, UC Berkeley                                 | Assistant Professor, Chemistry, UC Berkeley                                                          |
 | Ilsa Kirby            | 2019         | 2021           | Scientist, Initial Therapeutics                                             | Scientist, Initial Therapeutics                                                                      |
 | John Chorba           | 2011         | 2020           | Lab Fellow                                                                  | Assistant Professor, UCSF School of Medicine                                                         |
 | Qi Hu                 | 2015         | 2019           | Assistant Professor, Westlake University, Hangzhou, China                   | Assistant Professor, Westlake University, Hangzhou, China                                            |
