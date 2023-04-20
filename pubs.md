@@ -3,6 +3,18 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
+* Dugan MP, Ferguson LB, Hertz NT, Chalkley RJ, Burlingame AL, Shokat KM, Parker PJ, Messing RO. Chemical Genetic Identification of PKC Epsilon Substrates in Mouse Brain. Mol Cell Proteomics. 2023 Feb 28;22(4):100522. doi: 10.1016/j.mcpro.2023.100522. Online ahead of print.
+
+    ([PMID 36863607](https://www.ncbi.nlm.nih.gov/pubmed/36863607)) ([PDF]({{ site.baseurl }}/pdfs/36863607.pdf))
+
+* Ruiz-Saenz A, Atreya CE, Wang C, Pan B, Dreyer CA, Brunen D, Prahallad A, Muñoz DP, Ramms DJ, Burghi V, Spassov DS, Fewings E, Hwang YC, Cowdrey C, Moelders C, Schwarzer C, Wolf DM, Hann B, VandenBerg SR, Shokat K, Moasser MM, Bernards R, Gutkind JS, van 't Veer LJ, Coppé JP. A reversible SRC-relayed COX2 inflammatory program drives resistance to BRAF and EGFR inhibition in BRAF(V600E) colorectal tumors. Nat Cancer. 2023 Feb;4(2):240-256. doi: 10.1038/s43018-022-00508-5. Epub 2023 Feb 9.
+
+    ([PMID 36759733](https://www.ncbi.nlm.nih.gov/pubmed/36759733)) ([PDF]({{ site.baseurl }}/pdfs/36759733.pdf))
+
+* Lou K, Wassarman DR, Yang T, Paung Y, Zhang Z, O'Loughlin TA, Moore MK, Egan RK, Greninger P, Benes CH, Seeliger MA, Taunton J, Gilbert LA, Shokat KM. IFITM proteins assist cellular uptake of diverse linked chemotypes. Science. 2022 Dec 9;378(6624):1097-1104. doi: 10.1126/science.abl5829. Epub 2022 Dec 8.
+
+    ([PMID 36480603](https://www.ncbi.nlm.nih.gov/pubmed/36480603)) ([PDF]({{ site.baseurl }}/pdfs/36480603.pdf)) ([SI]({{ site.baseurl }}/pdfs/36480603_si.pdf))
+
 * Guiley KZ, Shokat KM. A small molecule reacts with the p53 somatic mutant Y220C to rescue wild-type thermal stability. Cancer Discov. 2022 Oct 5:CD-22-0381. doi: 10.1158/2159-8290.CD-22-0381. Online ahead of print.
 
     ([PMID 36197521](https://www.ncbi.nlm.nih.gov/pubmed/36197521)) ([PDF]({{ site.baseurl }}/pdfs/36197521.pdf))
