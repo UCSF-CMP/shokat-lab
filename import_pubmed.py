@@ -10,6 +10,11 @@
 # good luck!
 
 import pandas as pd
+from sys import argv
+
+# filename is supplied as a command-line argument
+# e.g. "csv-ShokatKAut-set.csv"
+filename = argv[1]
 
 
 def format(df):
@@ -20,7 +25,7 @@ def format(df):
 
 
 #  read in data from downloaded CSV file (change file name if necessary)
-pubs = pd.read_csv("csv-ShokatKAut-set.csv", dtype=str)
+pubs = pd.read_csv(filename, dtype=str)
 # create a new dataframe column of the text output for each publication
 pubs["formatted"] = pubs.apply(format, axis=1)
 # concatenate all the outputs together to make one big chunk of body text
