@@ -4,5 +4,4 @@ spot_files
 img/.DS_Store
 .jekyll-cache/*
 .DS_Store
-Gemfile
 Gemfile.lock
