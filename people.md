@@ -45,6 +45,10 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/pampel"><span>![Julius pic](../img/pampel.jpg){: height="200" } Julius Pampel (visiting, joined in 2023)</span></a>
 
+<a href="{{ site.baseurl }}/bowcut"><span>![Vickie pic](../img/bowcut.png){: height="200" } Vickie Bowcut (joined in 2023)</span></a>
+
+<a href="{{ site.baseurl }}/fernando"><span>![Micah pic](../img/fernando.jpg){: height="200" } Micah Fernando (joined in 2023)</span></a>
+
 
 ### Postdocs
 
@@ -62,6 +66,9 @@ Talk to any of us—we’re happy to tell you more!
 <a href="{{ site.baseurl }}/pfaff"><span>![Patrick pic](../img/pfaff.jpg){: height="200" } Patrick Pfaff (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/changhao"><span>![Changhao pic](../img/changhao.jpg){: height="200" } Changhao He (joined in 2023)</span></a>
+
+<a href="{{ site.baseurl }}/liu"><span>![Jie pic](../img/liu.jpg){: height="200" } Jie Liu (joined in 2023)</span></a>
+
 
 | Word cloud of the values of Shokat lab members from our 2021 community circle |
 |:--:|
