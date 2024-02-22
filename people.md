@@ -29,17 +29,9 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Students
 
-<a href="{{ site.baseurl }}/zhu"><span>![Larry pic](../img/zhu.jpg){: height="200" } Lawrence Zhu (joined in 2018)</span></a>
-
-
-<a href="{{ site.baseurl }}/moore"><span>![Megan pic](../img/moore.jpg){: height="200" } Megan Moore (joined in 2018)</span></a>
-
-
 <a href="{{ site.baseurl }}/stevenson"><span>![Jack Stevenson pic](../img/stevenson.jpg){: height="200" } Jack Stevenson (joined in 2018)</span></a>
 
-
 <a href="{{ site.baseurl }}/shen"><span>![Wenqi pic](../img/shen.jpg){: height="200" } Wenqi Shen (joined in 2020)</span></a>
-
 
 <a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
 
