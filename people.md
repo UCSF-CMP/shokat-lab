@@ -69,6 +69,8 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/liu"><span>![Jie pic](../img/liu.jpg){: height="200" } Jie Liu (joined in 2023)</span></a>
 
+<a href="{{ site.baseurl }}/gier"><span>![Rodrigo pic](../img/gier.jpg){: height="200" } Rodrigo Gier (joined in 2023)</span></a>
+
 
 | Word cloud of the values of Shokat lab members from our 2021 community circle |
 |:--:|
