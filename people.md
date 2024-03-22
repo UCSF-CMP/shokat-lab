@@ -29,17 +29,9 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Students
 
-<a href="{{ site.baseurl }}/zhu"><span>![Larry pic](../img/zhu.jpg){: height="200" } Lawrence Zhu (joined in 2018)</span></a>
-
-
-<a href="{{ site.baseurl }}/moore"><span>![Megan pic](../img/moore.jpg){: height="200" } Megan Moore (joined in 2018)</span></a>
-
-
 <a href="{{ site.baseurl }}/stevenson"><span>![Jack Stevenson pic](../img/stevenson.jpg){: height="200" } Jack Stevenson (joined in 2018)</span></a>
 
-
 <a href="{{ site.baseurl }}/shen"><span>![Wenqi pic](../img/shen.jpg){: height="200" } Wenqi Shen (joined in 2020)</span></a>
-
 
 <a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
 
@@ -68,6 +60,8 @@ Talk to any of us—we’re happy to tell you more!
 <a href="{{ site.baseurl }}/changhao"><span>![Changhao pic](../img/changhao.jpg){: height="200" } Changhao He (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/liu"><span>![Jie pic](../img/liu.jpg){: height="200" } Jie Liu (joined in 2023)</span></a>
+
+<a href="{{ site.baseurl }}/gier"><span>![Rodrigo pic](../img/gier.jpg){: height="200" } Rodrigo Gier (joined in 2023)</span></a>
 
 
 | Word cloud of the values of Shokat lab members from our 2021 community circle |
