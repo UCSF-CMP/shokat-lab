@@ -5,6 +5,7 @@ description: Kevan Shokat has developed chemical methods to decipher
  the role of individual kinases and their cellular signaling networks
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://shokatlab.ucsf.edu" # the base hostname & protocol for your site
+exclude: [lab_old]
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
