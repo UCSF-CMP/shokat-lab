@@ -6,7 +6,7 @@ permalink: /join/
 ### The Shokat lab is accepting new lab members!
 We are proud to welcome members of all backgrounds.
 
-Our lab is mostly composed of graduate students and postdoctoral fellows, but we are also open to interest from potential visiting scholars, as well as potential interns at stages from post-baccalaureate to current undergraduate to high school. If you are not sure whether you belong at the Shokat lab, please reach out to Kevan directly at [Kevan.Shokat@ucsf.edu](mailto:Kevan.Shokat@ucsf.edu).
+Our lab is mostly composed of graduate students and postdoctoral fellows, but we are also open to interest from potential visiting scholars, as well as post-baccalaureate or current undergraduate students. If you are not sure whether you belong in the Shokat lab, please reach out to Kevan directly at [Kevan.Shokat@ucsf.edu](mailto:Kevan.Shokat@ucsf.edu).
 
 ### Postdoctoral fellows
 Potential postdocs should reach out to Kevan directly at [Kevan.Shokat@ucsf.edu](mailto:Kevan.Shokat@ucsf.edu).
@@ -18,6 +18,7 @@ The Shokat lab can theoretically accept graduate students from many UCSF and Ber
 - UCSF
     - [Chemistry and Chemical Biology](https://ccb.ucsf.edu/)
     - [Tetrad](https://tetrad.ucsf.edu/)
+    - [Biomedical Sciences] (https://bms.ucsf.edu/)
     - [Biophysics](https://biophysics.ucsf.edu/)
     - [Pharmaceutical Sciences and Pharmacogenomics](https://pspg.ucsf.edu/)
 - Berkeley
