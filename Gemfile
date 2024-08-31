@@ -7,3 +7,5 @@ gem 'jekyll'
 gem 'rouge'
 
 # gem "rails"
+
+gem "webrick", "~> 1.8"
