@@ -29,8 +29,6 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Students
 
-<a href="{{ site.baseurl }}/stevenson"><span>![Jack Stevenson pic](../img/stevenson.jpg){: height="200" } Jack Stevenson (joined in 2018)</span></a>
-
 <a href="{{ site.baseurl }}/shen"><span>![Wenqi pic](../img/shen.jpg){: height="200" } Wenqi Shen (joined in 2020)</span></a>
 
 <a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
@@ -40,6 +38,12 @@ Talk to any of us—we’re happy to tell you more!
 <a href="{{ site.baseurl }}/bowcut"><span>![Vickie pic](../img/bowcut.png){: height="200" } Vickie Bowcut (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/fernando"><span>![Micah pic](../img/fernando.jpg){: height="200" } Micah Fernando (joined in 2023)</span></a>
+
+<a href="{{ site.baseurl }}/prorok"><span>![Rachel pic](../img/prorok.jpg){: height="200" } Rachel Prorok (joined in 2024)</span></a>
+
+<a href="{{ site.baseurl }}/carrell"><span>![Hunter pic](../img/carrell.jpg){: height="200" } Hunter Carrell (joined in 2024)</span></a>
+
+<a href="{{ site.baseurl }}/le"><span>![Sang pic](../img/le.jpg){: height="200" } Sang Le (joined in 2024)</span></a>
 
 
 ### Postdocs
