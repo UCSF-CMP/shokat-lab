@@ -40,7 +40,6 @@ Genentech Hall, Room N514
 
 Lab Phones - (415) 514-0575
 
-Fax - (415) 514-5292
 
 
 
@@ -51,8 +50,6 @@ Fax - (415) 514-5292
 Genentech Hall, Room N512D
 
 Phone - (415) 514-0472
-
-Fax - (415) 514-5292
 
 Email - [Kevan.Shokat@ucsf.edu](mailto:Kevan.Shokat@ucsf.edu)
 
@@ -66,4 +63,3 @@ Delaney Lynch
 
 Phone - (415) 502-1475
 
-Fax - (415) 514-5292
