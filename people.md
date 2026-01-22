@@ -43,7 +43,6 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/carrell"><span>![Hunter pic](../img/carrell.jpg){: height="200" } Hunter Carrell (joined in 2024)</span></a>
 
-<a href="{{ site.baseurl }}/le"><span>![Sang pic](../img/le.jpg){: height="200" } Sang Le (joined in 2024)</span></a>
 
 
 ### Postdocs
