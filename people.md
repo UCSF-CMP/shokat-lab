@@ -47,15 +47,6 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Postdocs
 
-
-<a href="{{ site.baseurl }}/shi"><span>![Ying pic](../img/ying.jpg){: height="200" } Ying Shi (joined in 2018)</span></a>
-
-
-<a href="{{ site.baseurl }}/zheng"><span>![Qinheng pic](../img/zheng.jpg){: height="200" } Qinheng Zheng (joined in 2020)</span></a>
-
-
-<a href="{{ site.baseurl }}/morstein"><span>![Johannes pic](../img/morstein.png){: height="200" } Johannes Morstein (joined in 2021)</span></a>
-
 <a href="{{ site.baseurl }}/combs"><span>![Josh pic](../img/combs.jpg){: height="200" } Josh Combs (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/pfaff"><span>![Patrick pic](../img/pfaff.jpg){: height="200" } Patrick Pfaff (joined in 2023)</span></a>
