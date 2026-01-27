@@ -7,6 +7,6 @@ Josh joined the lab in 2023.
 
 ![Josh pic](../img/combs.jpg){: width="60%" }
 
+joshua.combs@ucsf.edu
 
-
-I am exploring new methods of disrupting the Wnt/β-catenin signaling pathway.  Aberrant regulation of this pathway can lead to the activation of cyclin D1 and c-Myc, and is linked to multiple cancer types.  This work involves the synthesis and biological evaluation of novel chemical probes to selectively target cells that misregulate Wnt/β-catenin signaling.
+My research in the Shokat lab focuses on development and evaluation of bifunctional compounds for binary pharmacology. Prior to joining the Shokat lab I completed my PhD in Seth Herzon's lab at Yale University. When I am not doing research I enjoy playing soccer, spending time with my family, and spending time with friends.
