@@ -43,7 +43,9 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/carrell"><span>![Hunter pic](../img/carrell.jpg){: height="200" } Hunter Carrell (joined in 2024)</span></a>
 
-<a href="{{ site.baseurl }}/Graswich"><span>![Chet pic](../img/Chet_Graswich.jpg){: height="200" } Chet Graswich (joined in 2025)</span></a>
+<a href="{{ site.baseurl }}/graswich"><span>![Chet pic](../img/Chet_Graswich.jpg){: height="200" } Chet Graswich (joined in 2025)</span></a>
+
+<a href="{{ site.baseurl }}/figueroa"><span>![Chet pic](../img/Sydney_Figueroa.pdf){: height="200" } Sydney Figueroa (joined in 2025)</span></a>
 
 
 
