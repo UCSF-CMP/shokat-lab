@@ -29,7 +29,6 @@ Talk to any of us—we’re happy to tell you more!
 
 ### Students
 
-<a href="{{ site.baseurl }}/shen"><span>![Wenqi pic](../img/shen.jpg){: height="200" } Wenqi Shen (joined in 2020)</span></a>
 
 <a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
 
@@ -47,7 +46,7 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/figueroa"><span>![Sydney pic](../img/Sydney_Figueroa.jpg){: height="200" } Sydney Figueroa (joined in 2025)</span></a>
 
-<a href="{{ site.baseurl }}/jung"><span>![Sungwon pic](../img/Sungwon_Jung.jpg){: height="200" } Sungwon Jung (joined in 2025)</span></a>
+<a href="{{ site.baseurl }}/jung"><span>![Sungwon pic](../img/Sungwon_Jung.jpeg){: height="200" } Sungwon Jung (joined in 2025)</span></a>
 
 
 
