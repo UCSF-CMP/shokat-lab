@@ -45,7 +45,9 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/graswich"><span>![Chet pic](../img/Chet_Graswich.jpg){: height="200" } Chet Graswich (joined in 2025)</span></a>
 
-<a href="{{ site.baseurl }}/figueroa"><span>![Sydney pic](../img/Sydney_Figueroa.pdf){: height="200" } Sydney Figueroa (joined in 2025)</span></a>
+<a href="{{ site.baseurl }}/figueroa"><span>![Sydney pic](../img/Sydney_Figueroa.jpg){: height="200" } Sydney Figueroa (joined in 2025)</span></a>
+
+<a href="{{ site.baseurl }}/jung"><span>![Sungwon pic](../img/Sungwon_Jung.jpg){: height="200" } Sungwon Jung (joined in 2025)</span></a>
 
 
 

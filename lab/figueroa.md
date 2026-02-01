@@ -5,7 +5,7 @@ permalink: /figueroa/
 ---
 Sydney joined the lab in 2025 (co-advised with Kevin Lou).
 
-![Sydney Figueroa pic](../img/Sydney_Figueroa.pdf){: width="60%" }
+![Sydney Figueroa pic](../img/Sydney_Figueroa.jpg){: width="60%" }
 
 sydney.figueroa@ucsf.edu
 
