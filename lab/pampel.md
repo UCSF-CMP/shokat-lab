@@ -5,7 +5,7 @@ permalink: /pampel/
 ---
 Julius joined the lab in 2023.
 
-![Julius pic](../img/pampel.jpg){: width="60%" }
+![Julius pic](../img/Julius_Pampel.jpg){: width="60%" }
 
 
 
