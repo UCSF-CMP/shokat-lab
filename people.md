@@ -32,7 +32,7 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
 
-<a href="{{ site.baseurl }}/pampel"><span>![Julius pic](../img/Julius_Pampel.jpg){: height="200" } Julius Pampel (visiting, joined in 2023)</span></a>
+<a href="{{ site.baseurl }}/pampel"><span>![Julius pic](../img/Julius_Pampel.jpg){: height="200" } Julius Pampel (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/bowcut"><span>![Vickie pic](../img/bowcut.png){: height="200" } Vickie Bowcut (joined in 2023)</span></a>
 
