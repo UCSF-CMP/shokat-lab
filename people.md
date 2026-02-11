@@ -50,6 +50,8 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/arab"><span>![Abe pic](../img/Abe_Arab.jpg){: height="200" } Abe Arab (joined in 2025)</span></a>
 
+<a href="{{ site.baseurl }}/guzman"><span>![Maria pic](../img/Maria_Tarazona_Guzman.jpg){: height="200" } Maria Tarazona Guzman (joined in 2025)</span></a>
+
 
 
 ### Postdocs
