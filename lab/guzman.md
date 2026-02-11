@@ -5,7 +5,7 @@ permalink: /guzman/
 ---
 Maria joined the lab in 2025 (co-advised with Frank McCormick).
 
-![Maria Tarazona Guzman pic](../img/Maria_Tarazona_Guzman.jpeg){: width="60%" }
+![Maria Tarazona Guzman pic](../img/Maria_Tarazona_Guzman.jpg){: width="60%" }
 
 maria.tarazonaguzman@ucsf.edu
 
