@@ -5,7 +5,7 @@ permalink: /graswich/
 ---
 Chet joined the lab in 2025 (co-advised with William A. Weiss).
 
-![Chet Graswich pic](../img/Chet_Graswich.jpeg){: width="60%" }
+![Chet Graswich pic](../img/Chet_Graswich.jpg){: width="60%" }
 
 chet.graswich@ucsf.edu
 
