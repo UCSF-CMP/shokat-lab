@@ -47,3 +47,13 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 0.08em;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}

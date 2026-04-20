@@ -90,13 +90,15 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: underline;
+    text-underline-offset: 0.08em;
 
     &:visited {
         color: darken($brand-color, 15%);
     }
 
-    &:hover {
+    &:hover,
+    &:focus {
         color: $text-color;
         text-decoration: underline;
     }
