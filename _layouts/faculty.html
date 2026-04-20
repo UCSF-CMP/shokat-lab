@@ -2,38 +2,47 @@
 layout: default
 ---
 
-  
-	<div class="post">
+<div class="post">
 
-	  <header class="post-header">
-	    <h1 class="post-title">{{ page.title }}</h1>
-	  </header>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
 
-	  <article class="post-content">
-	    {{ content }}
-	  </article>
+  <article class="post-content">
+    {{ content }}
+  </article>
 
+  <div class="container">
 
-    <div class="container">
+    <!-- start of content automatically grabbed from Profiles -->
+    <div class="jumbotron">
+      <div id="profiles_photo_container"></div>
+      <p id="profiles_name" style="display:none;"></p>
+      <p id="profiles_narrative"></p>
+    </div>
 
-      <!-- start of content automatically grabbed from Profiles -->
-      <div class="jumbotron">
-	<div id="profiles_photo_container"></div>
-	<p id="profiles_name">{{ page.title }}</p>
-	<p id="profiles_narrative"></p>
+    <div class="row">
+      <div class="col-md-7 col-md-offset-1">
+
+        <div id="profiles_connect" style="display:none;">
+          <h2>Connect</h2>
+          <ul>
+            <li id="profiles_email_link_container"></li>
+            <li id="profiles_page_link_container"></li>
+          </ul>
+        </div>
+
+        <div id="profiles_awards" style="display:none;">
+          <h2>Awards</h2>
+        </div>
+
+        <div id="profiles_publications" style="display:none;">
+          <h2>Publications</h2>
+        </div>
+
       </div>
-      <div class="row">
-	<div class="col-md-7 col-md-offset-1"> <!-- start first column -->
+    </div>
 
-	  <h2>Connect</h2>
-	  <ul>
-	    <li id="profiles_email_link_container"></li>
-	    <li id="profiles_page_link_container"></li>
-	  </ul>
+  </div>
 
-	  <div id="profiles_awards"><h2>Awards</h2></div>
-	  <div id="profiles_publications"><h2>Publications</h2></div>
-
-
-		</div> 
-
+</div>
