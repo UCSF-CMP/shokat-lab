@@ -237,7 +237,7 @@ permalink: /pubs/
 
 * Morisot N, Novotny CJ, Shokat KM, Ron D. A new generation of mTORC1 inhibitor attenuates alcohol intake and reward in mice. Addict Biol. 2018 Mar;23(2):713-722. doi: 10.1111/adb.12528. Epub 2017 Jul 6.
 
-    ([PMID 28681511](https://www.ncbi.nlm.nih.gov/pubmed/28681511)) ([PDF]({{ site.baseurl }}/pdfs/28681511.pdf))
+    ([PMID 28681511](https://www.ncbi.nlm.nih.gov/pubmed/28681511))
 
 * Dang CV, Reddy EP, Shokat KM, Soucek L. Drugging the 'undruggable' cancer targets. Nat Rev Cancer. 2017 Aug;17(8):502-508. doi: 10.1038/nrc.2017.36. Epub 2017 Jun 23.
 
