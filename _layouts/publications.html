@@ -1,0 +1,135 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+
+        <div id="profiles_publications">
+          <p id="profiles_publications_loading">Loading publications from UCSF Profiles...</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script>
+add_profiles_publications('ProfilesURLName', 'kevan.shokat');
+
+function add_profiles_publications(identifier_type, identifier) {
+  var request_completed = false;
+
+  $.getJSON(
+    'https://api.profiles.ucsf.edu/json/v2/?source=anatomy.ucsf.edu&' +
+      identifier_type + '=' + identifier + '&publications=full&callback=?',
+    function(response) {
+      request_completed = true;
+
+      if (!response || response.error) {
+        show_publications_fallback();
+        return;
+      }
+
+      if (!response.Profiles || response.Profiles.length === 0) {
+        show_publications_fallback();
+        return;
+      }
+
+      var data = response.Profiles[0];
+
+      if (!data.Publications || data.Publications.length === 0) {
+        show_publications_fallback();
+        return;
+      }
+
+      $('#profiles_publications').empty();
+      $('#profiles_publications')
+        .show()
+        .append($('<ol id="profiles_publications_list"></ol>'));
+
+      jQuery.each(data.Publications, function() {
+        var li = $('<li class="profiles_publications_li" />');
+
+        if (this.PublicationTitle) {
+          li.append(document.createTextNode(this.PublicationTitle + ' '));
+        } else {
+          li.append(document.createTextNode('Publication record '));
+        }
+
+        var source = null;
+
+        if (this.PublicationSource && this.PublicationSource.length > 0) {
+          source = get_best_non_pdf_source(this.PublicationSource);
+        }
+
+        if (source && source.PublicationSourceURL) {
+          li.append(
+            $('<a class="profiles_publication_link" />')
+              .attr('href', source.PublicationSourceURL)
+              .attr('target', '_blank')
+              .attr('rel', 'noopener')
+              .text('View on ' + source.PublicationSourceName)
+          );
+        } else {
+          li.append(
+            $('<a class="profiles_publication_link" />')
+              .attr('href', 'https://profiles.ucsf.edu/kevan.shokat')
+              .attr('target', '_blank')
+              .attr('rel', 'noopener')
+              .text('View on UCSF Profiles')
+          );
+        }
+
+        $('#profiles_publications_list').append(li);
+      });
+    }
+  ).fail(function() {
+    show_publications_fallback();
+  });
+
+  setTimeout(function() {
+    if (!request_completed) {
+      show_publications_fallback();
+    }
+  }, 8000);
+}
+
+function get_best_non_pdf_source(publication_sources) {
+  for (var i = 0; i < publication_sources.length; i++) {
+    var source = publication_sources[i];
+    var url = source.PublicationSourceURL || '';
+
+    if (url && url.toLowerCase().indexOf('.pdf') === -1) {
+      return source;
+    }
+  }
+
+  return null;
+}
+
+function show_publications_fallback() {
+  $('#profiles_publications')
+    .empty()
+    .show()
+    .append(
+      '<p>Publications could not be loaded automatically. Please visit ' +
+      '<a href="https://profiles.ucsf.edu/kevan.shokat" target="_blank" rel="noopener">' +
+      'Kevan Shokat\\'s UCSF Profiles publication page</a>.</p>'
+    );
+}
+</script>
