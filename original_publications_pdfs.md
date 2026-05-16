@@ -1,8 +1,3 @@
----
-layout: page
-title: Publications
-permalink: /pubs/
----
 * Dugan MP, Ferguson LB, Hertz NT, Chalkley RJ, Burlingame AL, Shokat KM, Parker PJ, Messing RO. Chemical Genetic Identification of PKC Epsilon Substrates in Mouse Brain. Mol Cell Proteomics. 2023 Feb 28;22(4):100522. doi: 10.1016/j.mcpro.2023.100522. Online ahead of print.
 
     ([PMID 36863607](https://www.ncbi.nlm.nih.gov/pubmed/36863607)) ([PDF]({{ site.baseurl }}/pdfs/36863607.pdf))
