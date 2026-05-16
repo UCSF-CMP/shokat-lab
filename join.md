@@ -18,7 +18,7 @@ The Shokat lab can theoretically accept graduate students from many UCSF and Ber
 - UCSF
     - [Chemistry and Chemical Biology](https://ccb.ucsf.edu/)
     - [Tetrad](https://tetrad.ucsf.edu/)
-    - [Biomedical Sciences] (https://bms.ucsf.edu/)
+    - [Biomedical Sciences](https://bms.ucsf.edu/)
     - [Biophysics](https://biophysics.ucsf.edu/)
     - [Pharmaceutical Sciences and Pharmacogenomics](https://pspg.ucsf.edu/)
 - Berkeley
