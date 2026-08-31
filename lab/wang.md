@@ -1,10 +1,11 @@
 ---
 layout: page
-title:  Siyi Wang
+title: Wesley Wang
 permalink: /wang/
 ---
-Siyi joined the lab in 2021.
+Wesley joine the lab in 2025.
 
-![zhu pic](../img/wang.jpg){: width="60%" }
+![Wesley Wang pic](../img/Wesley_Wang.jpeg){: with="60%" }
 
-I’m a graduate student in the Chemistry and Chemical Biology program. My work focuses on selectively regulate RNA translation on a 5’UTR targeting approach. The targets I’m particularly interested in, among many others, are the oncogenes and virus RNA.
+ntereste in fining new chemical moalities for KR<!-- S mutation targeting.
+ -->

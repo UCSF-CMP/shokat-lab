@@ -30,8 +30,6 @@ Talk to any of us—we’re happy to tell you more!
 ### Students
 
 
-<a href="{{ site.baseurl }}/wang"><span>![Siyi pic](../img/wang.jpg){: height="200" } Siyi Wang (joined in 2021)</span></a>
-
 <a href="{{ site.baseurl }}/pampel"><span>![Julius pic](../img/Julius_Pampel.jpg){: height="200" } Julius Pampel (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/bowcut"><span>![Vickie pic](../img/bowcut.png){: height="200" } Vickie Bowcut (joined in 2023)</span></a>
@@ -52,6 +50,7 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/guzman"><span>![Maria pic](../img/Maria_Tarazona_Guzman.jpg){: height="200" } Maria Tarazona Guzman (joined in 2025)</span></a>
 
+<a href="{{ site.baseurl }}/xu"><span>![Megan pic](../img/Megan_Xu.jpeg){: height="200" } Megan Xu (joined in 2026)</span></a>
 
 
 ### Postdocs
@@ -65,6 +64,10 @@ Talk to any of us—we’re happy to tell you more!
 <a href="{{ site.baseurl }}/liu"><span>![Jie pic](../img/liu.jpg){: height="200" } Jie Liu (joined in 2023)</span></a>
 
 <a href="{{ site.baseurl }}/gier"><span>![Rodrigo pic](../img/gier.jpg){: height="200" } Rodrigo Gier (joined in 2023)</span></a>
+
+<a href="{{ site.baseurl }}/wong"><span>Allison Wong (joined in 2025)</span></a>
+
+<a href="{{ site.baseurl }}/wang"><span>![Wesley pic](../img/Wesley_Wang.jpeg){: height="200" } Wesley Wang (joined in 2025)</span></a>
 
 
 | Word cloud of the values of Shokat lab members from our 2021 community circle |
