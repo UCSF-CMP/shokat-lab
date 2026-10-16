@@ -65,7 +65,7 @@ Talk to any of us—we’re happy to tell you more!
 
 <a href="{{ site.baseurl }}/gier"><span>![Rodrigo pic](../img/gier.jpg){: height="200" } Rodrigo Gier (joined in 2023)</span></a>
 
-<a href="{{ site.baseurl }}/wong"><span>Allison Wong (joined in 2025)</span></a>
+<a href="{{ site.baseurl }}/wong"><span>![Allison Wong pic](../img/Allison_Wong.jpg){: height="200" } Allison Wong (joined in 2025)</span></a>
 
 <a href="{{ site.baseurl }}/wang"><span>![Wesley pic](../img/Wesley_Wang.jpeg){: height="200" } Wesley Wang (joined in 2025)</span></a>
 
